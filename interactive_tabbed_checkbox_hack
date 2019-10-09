@@ -1,0 +1,1065 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- THIS EMAIL WAS BUILT USING LITMUS BUILDER https://pages.litmus.com/e/31032/2019-09-30/jgp5h8/720438025?h=G84If7IySpEdUy9N5NRVfOspemRH7H_JNMGDw2Pu3vc
+-->
+<!-- QUESTIONS? TWEET US @litmusapp -->
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office" lang="en" xml:lang="en">
+  
+  <head>
+    <title>Litmus</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"
+    />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <style type="text/css">
+      /* BOILERPLATE STYLES */
+      #outlook a{padding:0;}
+      .ReadMsgBody{width:100%;} .ExternalClass{width:100%;}
+      .ExternalClass, .ExternalClass span, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+      a { text-decoration: none; }
+      body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;}
+      table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;}
+      img {-ms-interpolation-mode:bicubic; display: block; border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+      body {height:100% !important; margin:0 !important; padding:0 !important; width:100% !important;}
+      .appleFooter a { color:#ffffff !important; text-decoration: none !important; }
+      .appleText a,
+      .appleText span {
+        color:#50596E !important;
+        border: 0 !important;
+      }
+      .appleText2 a,
+      .appleText2 span {
+        color:#686E87 !important;
+        border: 0 !important;
+      }
+      @font-face {
+          font-family: 'proxima_nova';
+          src: url('https://litmus.com/fonts/Emails/proximanova-regular-webfont.eot');
+          src: url('https://litmus.com/fonts/Emails/proximanova-regular-webfont.eot?#iefix') format('embedded-opentype'),
+               url('https://litmus.com/fonts/Emails/proximanova-regular-webfont.woff') format('woff'),
+               url('https://litmus.com/fonts/Emails/proximanova-regular-webfont.ttf') format('truetype'),
+               url('https://litmus.com/fonts/Emails/proximanova-regular-webfont.svg#proxima_nova_rgregular') format('svg');
+          font-weight: normal;
+          font-style: normal;
+          mso-font-alt: 'Arial';
+      }
+      @font-face {
+          font-family: 'proxima_nova';
+          src: url('https://litmus.com/fonts/Emails/proximanova-bold-webfont.eot');
+          src: url('https://litmus.com/fonts/Emails/proximanova-bold-webfont.eot?#iefix') format('embedded-opentype'),
+               url('https://litmus.com/fonts/Emails/proximanova-bold-webfont.woff') format('woff'),
+               url('https://litmus.com/fonts/Emails/proximanova-bold-webfont.ttf') format('truetype'),
+               url('https://litmus.com/fonts/Emails/proximanova-bold-webfont.svg#proxima_nova_rgbold') format('svg');
+          font-weight: bold;
+          font-style: normal;
+          mso-font-alt: 'Arial';
+      }
+      @font-face {
+          font-family: 'brandon';
+          src: url('https://litmus.com/fonts/Emails/brandon_reg-webfont.eot');
+          src: url('https://litmus.com/fonts/Emails/brandon_reg-webfont?#iefix') format('embedded-opentype'),
+               url('https://litmus.com/fonts/Emails/brandon_reg-webfont.woff') format('woff'),
+               url('https://litmus.com/fonts/Emails/brandon_reg-webfont.ttf') format('truetype'),
+               url('https://litmus.com/fonts/Emails/brandon_reg-webfont.svg#brandon_reg') format('svg');
+          font-weight: normal;
+          font-style: normal;
+          mso-font-alt: 'Arial';
+      }
+      @font-face {
+          font-family: 'brandon';
+          src: url('https://litmus.com/fonts/Emails/Brandon_bld-webfont.eot');
+          src: url('https://litmus.com/fonts/Emails/Brandon_bld-webfont?#iefix') format('embedded-opentype'),
+               url('https://litmus.com/fonts/Emails/Brandon_bld-webfont.woff') format('woff'),
+               url('https://litmus.com/fonts/Emails/Brandon_bld-webfont.ttf') format('truetype'),
+               url('https://litmus.com/fonts/Emails/Brandon_bld-webfont.svg#brandon_bold') format('svg');
+          font-weight: bold;
+          font-style: normal;
+          mso-font-alt: 'Arial';
+      }
+      
+      u + .body .glist { margin-left: 0 !important; }
+      @media only screen and (max-width: 700px) {
+      	.blockwrap { display:block !important; }
+        .text-center { text-align: center !important; }
+        .font36 { font-size: 36px !important; }
+        .lh40 { line-height: 40px !important; }
+        .mw450 { width: 100%; max-width: 450px !important; }
+        .wauto { width: auto !important; }
+        .w295 { width: 295px !important; }
+        .w100p { width: 100% !important; }
+        .hauto { height: auto !important; }
+        .h15 { height: 15px !important; }
+        .h20 { height: 20px !important; }
+        .padding15 { padding: 0 15px !important; }
+        .ptop15 { padding-top: 15px !important;}
+      	.img-max {
+      		max-width: 100% !important;
+      		width: 100% !important;
+      		height: auto !important;
+      	}
+        u + .body .glist { margin-left: 25px !important; }
+      }
+      .link:hover { text-decoration:none !important; }
+      .cta-border:hover { border-bottom: 1px solid transparent !important; }
+      .fadeimg {
+        transition: 0.3s!important;
+        opacity: 1!important;
+      }
+      .fadeimg:hover {
+        transition: 0.3s!important;
+        opacity: 0.5!important;
+      }
+      .cta, .card-yt { transition: 0.3s !important; }
+      .btn-granite:hover {
+        transition: 0.3s !important;
+        background-color: #677386 !important;
+        border: 1px solid transparent !important;
+        mso-border-alt: 8px solid #677386 !important;
+        box-shadow: none !important;
+      }
+      .card-yt:hover {
+        transition: 0.3s !important;
+        background-color: rgba(255,255,255,.5) !important;
+        box-shadow: none !important;
+      }
+      @media screen and (-webkit-min-device-pixel-ratio:0) {
+        .webkitfont18 { font-size: 18px !important; line-height: 24px !important; }
+        [class="x_webkitfont18"] { font-size: 16px !important; line-height: 20px !important; }
+      }
+    </style>
+    <link rel="stylesheet" type="text/css" href="https://campaigns.litmus.com/_email/2019/09_sep/20190930_LL_Conference-for-All/images/tabs.css"
+    />
+    <!--[if gte mso 9]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+    <![endif]-->
+  </head>
+  
+  <body class="body" style="padding:0; margin:0; text-align:center; background-color: #e1e7ed;">
+    <table role="article" aria-label="Email from Litmus" lang="en" cellpadding="0"
+    cellspacing="0" border="0" style="width: 100%; text-align:center; margin: 0 auto; table-layout: fixed;">
+      <tr>
+        <td>
+          <!-- start HIDDEN_PREVIEW_TEXT -->
+          <!--[if !mso]>
+            <! -->
+            <div style="display:none !important; display:none; overflow:hidden; float:left; width:0px; max-height:0px; max-width:0px; line-height:0px; visibility:hidden;">Whether you&rsquo;re an expert conference mingler or one who revels in independent
+              learning, Litmus Live is the email conference for you. &zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;</div>
+          <!--<![endif]-->
+          <!-- end HIDDEN_PREVIEW_TEXT -->
+          <!-- start HEADER_SECTION -->
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+            <tr>
+              <td align="center" width="100%" bgcolor="#3c4656" valign="top" style="padding: 0px 15px;">
+                <table role="presentation" align="center" class="w100p" cellpadding="0" cellspacing="0"
+                border="0" style="width: 600px; max-width: 600px;">
+                  <tr>
+                    <td class="w100p" align="center" style="width: 600px; max-width: 600px;">
+                      <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                          <td style="font-size: 1px; line-height: 25px;">&nbsp;</td>
+                        </tr>
+                      </table>
+                      <!-- start HEADER_LOGO -->
+                      <table role="presentation" align="center" class="w100p" cellpadding="0" cellspacing="0"
+                      border="0" style="width: 600px; max-width: 600px;">
+                        <tr>
+                          <td class="w100p" align="center" style="width: 600px; max-width: 600px;">
+                            <a href="https://pages.litmus.com/e/31032/ntent-0dynamic-content-1456url/jgp5h2/720438025/staff?h=G84If7IySpEdUy9N5NRVfOspemRH7H_JNMGDw2Pu3vc"
+                            target="_blank">
+                              <img src="https://campaigns.litmus.com/_email/_global/images/logo_ll_icon-name.png"
+                              width="275" height="70" alt="Litmus Live" style="color: #ffffff; font-family:'proxima_nova', Helvetica, Arial, sans-serif; text-align:center; font-weight:bold; font-size:36px; line-height:40px; text-decoration: none; margin: 0 auto; padding: 0;"
+                              border="0" />
+                            </a>
+                          </td>
+                        </tr>
+                      </table>
+                      <!-- end HEADER_LOGO -->
+                      <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                          <td style="font-size: 1px; line-height: 35px;">&nbsp;</td>
+                        </tr>
+                      </table>
+                       <h1 class="font36 lh40" style="font-family: 'brandon', Helvetica, Arial, sans-serif; font-weight: bold; font-size: 40px; line-height: 48px; color: #ffffff; text-align:center; margin:0; padding:0;">
+            The Email Conference For&nbsp;You
+        </h1>
+
+                      <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                          <td style="font-size: 1px; line-height: 35px;">&nbsp;</td>
+                        </tr>
+                      </table>
+                      <a href="https://pages.litmus.com/e/31032/ntent-0dynamic-content-1456url/jgp5h4/720438025/staff?h=G84If7IySpEdUy9N5NRVfOspemRH7H_JNMGDw2Pu3vc"
+                      aria-hidden="true" target="_blank">
+                        <img class="fadeimg" src="https://campaigns.litmus.com/_email/2019/09_sep/20190930_LL_Conference-for-All/images/hero.png"
+                        width="600" alt="" style="display: block; margin: 0 auto; padding: 0; max-width: 100%;"
+                        border="0" />
+                      </a>
+                      <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                          <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+                        </tr>
+                      </table>
+                      <p style="font-family: 'proxima_nova', Helvetica, Arial, sans-serif; text-align: left; font-size: 18px; line-height: 26px; color: #ffffff; margin: 0 auto;">Litmus Live is <em>the</em> email marketing conference of the year packed full of
+                        inspirational sessions, hands-on workshops, and one-of-a-kind networking opportunities.</p>
+                      <table
+                      role="presentation" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                          <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+                        </tr>
+                </table>
+                </td>
+                </tr>
+          </table>
+          </td>
+          </tr>
+    </table>
+    <!-- end HEADER_SECTION -->
+    <!-- start BODY -->
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+      <tr>
+        <td align="center" bgcolor="#e1e7ed" valign="top" style="padding: 0px 15px;">
+          <table role="presentation" align="center" class="w100p" cellpadding="0" cellspacing="0"
+          border="0" style="width: 600px; max-width: 600px;">
+            <tr>
+              <td class="w100p" align="center" style="width: 600px; max-width: 600px;">
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+                  </tr>
+                </table>
+                <p style="font-family: 'proxima_nova', Helvetica, Arial, sans-serif; text-align: left; font-size: 18px; line-height: 26px; color: #3B4656; margin: 0 auto;">With a jam-packed agenda and so many attendees, we've got something for every
+                  #emailgeek&mdash;no matter what sort of conference attendee you&nbsp;are!</p>
+                <table
+                role="presentation" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td style="font-size: 1px; line-height: 30px;">&nbsp;</td>
+                  </tr>
+          </table>
+          <!-- start SECTION_FALLBACK -->
+          <div class="staticfallback">
+            <!-- start FALLBACK_Extrovert -->
+            <table role="presentation" class="w100p" cellpadding="0" cellspacing="0" border="0"
+            style="box-shadow: 0 3px 6px 1px rgba(0,0,0,0.1), 0 10px 12px -5px rgba(206,213,219,0.8); border-radius: 3px; background-color: #3C4656;">
+              <tr>
+                <td class="padding15" align="center" valign="top" style="width: 600px; max-width: 600px; padding: 0 20px;">
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+                    </tr>
+                  </table>
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td class="padding15 card-yt" align="center" valign="top" style="box-shadow: 0 3px 6px 1px rgba(0,0,0,0.1); padding: 0 15px; background-color: #ffffff;">
+                        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                          <tr>
+                            <td style="font-size: 1px; line-height: 15px;">&nbsp;</td>
+                          </tr>
+                        </table>
+                        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                          <tr>
+                            <td align="center" valign="middle" width="162" height="141" bgcolor="#EEB35B"
+                            style="vertical-align:middle;">
+                              <img src="https://campaigns.litmus.com/_email/2019/09_sep/20190930_LL_Conference-for-All/images/icon_extrovert.png"
+                              width="125" height="131" alt="" style="display: block; margin: 0; padding: 0;"
+                              border="0" />
+                            </td>
+                          </tr>
+                        </table>
+                        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                          <tr>
+                            <td style="font-size: 1px; line-height: 15px;">&nbsp;</td>
+                          </tr>
+                        </table>
+                         <h2 style="font-family:'proxima_nova', Helvetica, Arial, sans-serif; font-weight:bold; font-size:28px; line-height:34px; color:#3C4656; text-align:center; margin:0; padding:0; max-width: 450px;">
+            Extrovert
+          </h2>
+
+                        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                          <tr>
+                            <td style="font-size: 1px; line-height: 15px;">&nbsp;</td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="font-size: 1px; line-height: 30px;">&nbsp;</td>
+                    </tr>
+                  </table>
+                  <p style="font-family:'proxima_nova', Helvetica, Arial, sans-serif; font-weight:bold; font-size:22px; line-height:30px; color:#ffffff; text-align:center; margin:0; padding:0; max-width: 450px;">You&rsquo;re an extrovert and love to learn in big groups&mdash;the more voices,
+                    the&nbsp;better!</p>
+                  <table role="presentation" cellpadding="0" cellspacing="0"
+                  border="0">
+                    <tr>
+                      <td style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+                    </tr>
+                  </table>
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td bgcolor="#EEB35B" width="100" style="font-size: 1px; line-height: 2px;">&nbsp;</td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td class="padding15" align="left" valign="top" style="width: 600px; max-width: 600px; padding: 0 20px;">
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+                    </tr>
+                  </table>
+                  <ul class="glist" style="Margin:0; Margin-left: 25px; padding:0; font-family:'proxima_nova', Helvetica, Arial, sans-serif;"
+                  type="disc">
+                    <li style="color: #EEB35B; font-size:18px; line-height:26px; margin-bottom: 30px;"> <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                <a href="https://pages.litmus.com/e/31032/ntent-0dynamic-content-1456url/jgp5gx/720438025/staff?h=G84If7IySpEdUy9N5NRVfOspemRH7H_JNMGDw2Pu3vc" class="link" style="color: #ffffff; font-weight:bold; text-decoration:underline;" target="_blank">Submit your email for Live Optimization</a>, see your email on the big screen, and learn from the Litmus team, some special guests, and your email peers in the audience.
+              </span>
+
+                    </li>
+                    <li style="color: #EEB35B; font-size:18px; line-height:26px; margin-bottom: 30px;"> <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                Focus your email learning during a <a href="https://pages.litmus.com/e/31032/ntent-0dynamic-content-1456url/jgp5gz/720438025/staff?h=G84If7IySpEdUy9N5NRVfOspemRH7H_JNMGDw2Pu3vc" class="link" style="color: #ffffff; font-weight:bold; text-decoration:underline;" target="_blank">pre-conference workshop</a>. Exclusive to Litmus Live attendees, dig into email development or marketing strategy during these group sessions.
+              </span>
+
+                    </li>
+                    <li style="color: #EEB35B; font-size:18px; line-height:26px;"> <span class="appleFooter" style="color: #ffffff; font-size:18px; line-height:26px;">
+                Enjoy a post-conference beverage at Thursday night&rsquo;s after-party and talk email with your fellow attendees.
+              </span>
+
+                    </li>
+                  </ul>
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+            <!-- end FALLBACK_Extrovert -->
+            <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td style="font-size: 1px; line-height: 30px;">&nbsp;</td>
+              </tr>
+            </table>
+            <!-- start FALLBACK_Introvert -->
+            <table role="presentation" class="w100p" cellpadding="0" cellspacing="0" border="0"
+            style="box-shadow: 0 3px 6px 1px rgba(0,0,0,0.1), 0 10px 12px -5px rgba(206,213,219,0.8); border-radius: 3px; background-color: #3C4656;">
+              <tr>
+                <td class="padding15" align="center" valign="top" style="width: 600px; max-width: 600px; padding: 0 20px;">
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+                    </tr>
+                  </table>
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td class="padding15 card-yt" align="center" valign="top" style="box-shadow: 0 3px 6px 1px rgba(0,0,0,0.1); padding: 0 15px; background-color: #ffffff;">
+                        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                          <tr>
+                            <td style="font-size: 1px; line-height: 15px;">&nbsp;</td>
+                          </tr>
+                        </table>
+                        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                          <tr>
+                            <td align="center" valign="bottom" width="162" height="141" bgcolor="#EA7165"
+                            style="vertical-align:bottom;">
+                              <img src="https://campaigns.litmus.com/_email/2019/09_sep/20190930_LL_Conference-for-All/images/icon_introvert.png"
+                              width="111" height="138" alt="" style="display: block; margin: 0; padding: 0;"
+                              border="0" />
+                            </td>
+                          </tr>
+                        </table>
+                        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                          <tr>
+                            <td style="font-size: 1px; line-height: 15px;">&nbsp;</td>
+                          </tr>
+                        </table>
+                         <h2 style="font-family:'proxima_nova', Helvetica, Arial, sans-serif; font-weight:bold; font-size:28px; line-height:34px; color:#3C4656; text-align:center; margin:0; padding:0; max-width: 450px;">
+            Introvert
+          </h2>
+
+                        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                          <tr>
+                            <td style="font-size: 1px; line-height: 15px;">&nbsp;</td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="font-size: 1px; line-height: 30px;">&nbsp;</td>
+                    </tr>
+                  </table>
+                  <p style="font-family:'proxima_nova', Helvetica, Arial, sans-serif; font-weight:bold; font-size:22px; line-height:30px; color:#ffffff; text-align:center; margin:0; padding:0; max-width: 450px;">You&rsquo;re an introvert and get the most out of conferences by learning at your
+                    own pace. Speaking to folks 1-on-1 is your&nbsp;jam.</p>
+                  <table role="presentation"
+                  cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+                    </tr>
+                  </table>
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td bgcolor="#EA7165" width="100" style="font-size: 1px; line-height: 2px;">&nbsp;</td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td class="padding15" align="left" valign="top" style="width: 600px; max-width: 600px; padding: 0 20px;">
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+                    </tr>
+                  </table>
+                  <ul class="glist" style="Margin:0; Margin-left: 25px; padding:0; font-family:'proxima_nova', Helvetica, Arial, sans-serif;"
+                  type="disc">
+                    <li style="color: #EA7165; font-size:18px; line-height:26px; margin-bottom: 30px;"> <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                Learn everything from email development to marketing strategy in small group <a href="https://pages.litmus.com/e/31032/ntent-0dynamic-content-1456url/jgp5gz/720438025/staff?h=G84If7IySpEdUy9N5NRVfOspemRH7H_JNMGDw2Pu3vc" class="link" style="color: #ffffff; font-weight:bold; text-decoration:underline;" target="_blank">workshops</a>, only available to Litmus Live attendees.
+              </span>
+
+                    </li>
+                    <li style="color: #EA7165; font-size:18px; line-height:26px; margin-bottom: 30px;"> <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                Meet with speakers during a 1:1 Ask-an-Expert session to ask your burning email questions.
+              </span>
+
+                    </li>
+                    <li style="color: #EA7165; font-size:18px; line-height:26px;"> <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                Soak in some serious email knowledge during any one of the 28 sessions over 2 days&mdash;that&rsquo;s a lot of learning!
+              </span>
+
+                    </li>
+                  </ul>
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+            <!-- end FALLBACK_Introvert -->
+            <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td style="font-size: 1px; line-height: 30px;">&nbsp;</td>
+              </tr>
+            </table>
+            <!-- start FALLBACK_Ambivert -->
+            <table role="presentation" class="w100p" cellpadding="0" cellspacing="0" border="0"
+            style="box-shadow: 0 3px 6px 1px rgba(0,0,0,0.1), 0 10px 12px -5px rgba(206,213,219,0.8); border-radius: 3px; background-color: #3C4656;">
+              <tr>
+                <td class="padding15" align="center" valign="top" style="width: 600px; max-width: 600px; padding: 0 20px;">
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+                    </tr>
+                  </table>
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td class="padding15 card-yt" align="center" valign="top" style="box-shadow: 0 3px 6px 1px rgba(0,0,0,0.1); padding: 0 15px; background-color: #ffffff;">
+                        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                          <tr>
+                            <td style="font-size: 1px; line-height: 15px;">&nbsp;</td>
+                          </tr>
+                        </table>
+                        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                          <tr>
+                            <td align="center" valign="bottom" width="162" height="141" bgcolor="#60C1E3"
+                            style="vertical-align:bottom;">
+                              <img src="https://campaigns.litmus.com/_email/2019/09_sep/20190930_LL_Conference-for-All/images/icon_ambivert.png"
+                              width="107" height="137" alt="" style="display: block; margin: 0; padding: 0;"
+                              border="0" />
+                            </td>
+                          </tr>
+                        </table>
+                        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                          <tr>
+                            <td style="font-size: 1px; line-height: 15px;">&nbsp;</td>
+                          </tr>
+                        </table>
+                         <h2 style="font-family:'proxima_nova', Helvetica, Arial, sans-serif; font-weight:bold; font-size:28px; line-height:34px; color:#3C4656; text-align:center; margin:0; padding:0; max-width: 450px;">
+            Ambivert
+          </h2>
+
+                        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                          <tr>
+                            <td style="font-size: 1px; line-height: 15px;">&nbsp;</td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="font-size: 1px; line-height: 30px;">&nbsp;</td>
+                    </tr>
+                  </table>
+                  <p style="font-family:'proxima_nova', Helvetica, Arial, sans-serif; font-weight:bold; font-size:22px; line-height:30px; color:#ffffff; text-align:center; margin:0; padding:0; max-width: 450px;">You&rsquo;re an ambivert and spend entire conferences soaking in content-laden
+                    sessions and email chats over coffee&nbsp;breaks.</p>
+                  <table role="presentation"
+                  cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+                    </tr>
+                  </table>
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td bgcolor="#60C1E3" width="100" style="font-size: 1px; line-height: 2px;">&nbsp;</td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td class="padding15" align="left" valign="top" style="width: 600px; max-width: 600px; padding: 0 20px;">
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+                    </tr>
+                  </table>
+                  <ul class="glist" style="Margin:0; Margin-left: 25px; padding:0; font-family:'proxima_nova', Helvetica, Arial, sans-serif;"
+                  type="disc">
+                    <li style="color: #60C1E3; font-size:18px; line-height:26px; margin-bottom: 30px;"> <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                With 28 sessions, pull up a chair and learn from the brightest minds in the industry.
+              </span>
+
+                    </li>
+                    <li style="color: #60C1E3; font-size:18px; line-height:26px; margin-bottom: 30px;"> <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                Lunch and email? Why not! Talk email with your peers during the lunch breaks and networking sessions and see what you can learn from your peers.
+              </span>
+
+                    </li>
+                    <li style="color: #60C1E3; font-size:18px; line-height:26px;"> <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                Get a deep dive into everything from email development to marketing strategy during one of the exclusive Litmus Live <a href="https://pages.litmus.com/e/31032/ntent-0dynamic-content-1456url/jgp5gz/720438025/staff?h=G84If7IySpEdUy9N5NRVfOspemRH7H_JNMGDw2Pu3vc" class="link" style="color: #ffffff; font-weight:bold; text-decoration:underline;" target="_blank">workshops</a>&mdash;with limited seating you don&rsquo;t want to miss&nbsp;this.
+              </span>
+
+                    </li>
+                  </ul>
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+            <!-- end FALLBACK_Ambivert -->
+            <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+              </tr>
+            </table>
+          </div>
+          <!-- end SECTION_FALLBACK -->
+          <!-- start TAB_SWITCHER -->
+          <div class="switchinputs">
+            <!--[if (!mso)&(gte IE 10)]>
+              <!-- -->
+              <input id="extrovert-layout" class="extrovert-layout" type="radio" name="layout"
+              style="position:absolute;visibility:hidden;display:none;">
+              <input id="introvert-layout" class="introvert-layout" type="radio" name="layout"
+              style="position:absolute;visibility:hidden;display:none;">
+              <input id="ambivert-layout" class="ambivert-layout" type="radio" name="layout"
+              style="position:absolute;visibility:hidden;display:none;">
+            <!--<![endif]-->
+            <div class="main-wrapper">
+              <!--[if (!mso)&(gte IE 10)]>
+                <!-- -->
+                <div class="checkswitcher" style="display:none; max-height:0; mso-hide:all;">
+                  <!--[if !mso]>
+                    <! -->
+                    <div class="switchtabs" style="width: 600px; max-width: 600px;">
+                      <label for="extrovert-layout" class="layout-buttons lay-extrovert"> <span class="icon"></span>
+ <span class="label-text">Extrovert</span>
+
+                      </label> <span class="spacer"><!-- start MOBILE_EXTROVERT -->
+           <table role="presentation" width="100%" class="extrovert-mob" cellpadding="0" cellspacing="0" border="0" style="box-shadow: 0 3px 6px 1px rgba(0,0,0,0.1), 0 10px 12px -5px rgba(206,213,219,0.8); padding: 0 15px; border-radius: 3px; background-color: #3C4656; display:none;"><tr>
+             <td align="center" valign="top">
+                 <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr><td style="font-size: 1px; line-height: 50px;">&nbsp;</td></tr></table>
+
+                 <p style="font-family:'proxima_nova', Helvetica, Arial, sans-serif; font-weight:bold; font-size:22px; line-height:30px; color:#ffffff; text-align:center; margin:0; padding:0; max-width: 450px;">
+                   You&rsquo;re an extrovert and love to learn in big groups&mdash;the more voices, the&nbsp;better!
+             		</p>
+
+                 <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr><td style="font-size: 1px; line-height: 20px;">&nbsp;</td></tr></table>
+                 <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr><td bgcolor="#EEB35B" width="100" style="font-size: 1px; line-height: 2px;">&nbsp;</td></tr></table>
+
+           </td></tr><tr><td align="left" style="width: 600px; max-width: 600px;">
+
+                 <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr><td style="font-size: 1px; line-height: 50px;">&nbsp;</td></tr></table>
+                 <ul class="glist" style="Margin:0; Margin-left: 25px; padding:0; font-family:'proxima_nova', Helvetica, Arial, sans-serif;" type="disc">
+                     <li style="color: #EEB35B; font-size:18px; line-height:26px; margin-bottom: 30px;">
+                         <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                           <a href="https://pages.litmus.com/e/31032/ntent-0dynamic-content-1456url/jgp5gx/720438025/staff?h=G84If7IySpEdUy9N5NRVfOspemRH7H_JNMGDw2Pu3vc" class="link" style="color: #ffffff; font-weight:bold; text-decoration:underline;" target="_blank">Submit your email for Live Optimization</a>, see your email on the big screen, and learn from the Litmus team, some special guests, and your email peers in the audience.
+                         </span>
+
+                      </li>
+                      <li style="color: #EEB35B; font-size:18px; line-height:26px; margin-bottom: 30px;"> <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                           Focus your email learning during a <a href="https://pages.litmus.com/e/31032/ntent-0dynamic-content-1456url/jgp5gz/720438025/staff?h=G84If7IySpEdUy9N5NRVfOspemRH7H_JNMGDw2Pu3vc" class="link" style="color: #ffffff; font-weight:bold; text-decoration:underline;" target="_blank">pre-conference workshop</a>. Exclusive to Litmus Live attendees, dig into email development or marketing strategy during these group sessions.
+                         </span>
+
+                      </li>
+                      <li style="color: #EEB35B; font-size:18px; line-height:26px;"> <span class="appleFooter" style="color: #ffffff; font-size:18px; line-height:26px;">
+                           Enjoy a post-conference beverage at Thursday night&rsquo;s after-party and talk email with your fellow attendees.
+                         </span>
+
+                      </li>
+                      </ul>
+                      <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                          <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+                        </tr>
+                      </table>
+                      </td>
+                      </tr>
+    </table>
+    <!-- end MOBILE_EXTROVERT -->
+    </span>
+    <label for="introvert-layout" class="layout-buttons lay-introvert"> <span class="icon"></span>
+ <span class="label-text">Introvert</span>
+
+    </label> <span class="spacer"><!-- start MOBILE_INTROVERT -->
+            <table role="presentation" width="100%" class="introvert-mob" cellpadding="0" cellspacing="0" border="0" style="box-shadow: 0 3px 6px 1px rgba(0,0,0,0.1), 0 10px 12px -5px rgba(206,213,219,0.8); padding: 0 15px; border-radius: 3px; background-color: #3C4656; display:none;"><tr>
+              <td align="center" valign="top">
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr><td style="font-size: 1px; line-height: 50px;">&nbsp;</td></tr></table>
+                  <p style="font-family:'proxima_nova', Helvetica, Arial, sans-serif; font-weight:bold; font-size:22px; line-height:30px; color:#ffffff; text-align:center; margin:0; padding:0; max-width: 450px;">
+                      You&rsquo;re an introvert and get the most out of conferences by learning at your own pace. Speaking to folks 1-on-1 is your&nbsp;jam.
+              		</p>
+
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr><td style="font-size: 1px; line-height: 20px;">&nbsp;</td></tr></table>
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr><td bgcolor="#EA7165" width="100" style="font-size: 1px; line-height: 2px;">&nbsp;</td></tr></table>
+
+            </td></tr><tr><td align="left" style="width: 600px; max-width: 600px;">
+
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr><td style="font-size: 1px; line-height: 50px;">&nbsp;</td></tr></table>
+                  <ul class="glist" style="Margin:0; Margin-left: 25px; padding:0; font-family:'proxima_nova', Helvetica, Arial, sans-serif;" type="disc">
+                      <li style="color: #EA7165; font-size:18px; line-height:26px; margin-bottom: 30px;">
+                          <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                            Learn everything from email development to marketing strategy in small group <a href="https://pages.litmus.com/e/31032/ntent-0dynamic-content-1456url/jgp5gz/720438025/staff?h=G84If7IySpEdUy9N5NRVfOspemRH7H_JNMGDw2Pu3vc" class="link" style="color: #ffffff; font-weight:bold; text-decoration:underline;" target="_blank">workshops</a>, only available to Litmus Live attendees.
+                          </span>
+
+    </li>
+    <li style="color: #EA7165; font-size:18px; line-height:26px; margin-bottom: 30px;"> <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                            Meet with speakers during a 1:1 Ask-an-Expert session to ask your burning email questions.
+                          </span>
+
+    </li>
+    <li style="color: #EA7165; font-size:18px; line-height:26px;"> <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                            Soak in some serious email knowledge during any one of the 28 sessions over 2 days&mdash;that&rsquo;s a lot of learning!
+                          </span>
+
+    </li>
+    </ul>
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+      <tr>
+        <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+      </tr>
+    </table>
+    </td>
+    </tr>
+    </table>
+    <!-- end MOBILE_INTROVERT -->
+    </span>
+    <label for="ambivert-layout" class="layout-buttons lay-ambivert"> <span class="icon"></span>
+ <span class="label-text">Ambivert</span>
+
+    </label> <span class="spacer"><!-- start MOBILE_AMBIVERT -->
+           <table role="presentation" width="100%" class="ambivert-mob" cellpadding="0" cellspacing="0" border="0" style="box-shadow: 0 3px 6px 1px rgba(0,0,0,0.1), 0 10px 12px -5px rgba(206,213,219,0.8); padding: 0 15px; border-radius: 3px; background-color: #3C4656; display:none;"><tr>
+             <td align="center" valign="top">
+                 <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr><td style="font-size: 1px; line-height: 50px;">&nbsp;</td></tr></table>
+                 <p style="font-family:'proxima_nova', Helvetica, Arial, sans-serif; font-weight:bold; font-size:22px; line-height:30px; color:#ffffff; text-align:center; margin:0; padding:0; max-width: 450px;">
+                     You&rsquo;re an ambivert and spend entire conferences soaking in content-laden sessions and email chats over coffee&nbsp;breaks.
+             		</p>
+
+                 <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr><td style="font-size: 1px; line-height: 20px;">&nbsp;</td></tr></table>
+                 <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr><td bgcolor="#60C1E3" width="100" style="font-size: 1px; line-height: 2px;">&nbsp;</td></tr></table>
+
+           </td></tr><tr><td align="left" style="width: 600px; max-width: 600px;">
+
+                 <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr><td style="font-size: 1px; line-height: 50px;">&nbsp;</td></tr></table>
+                 <ul class="glist" style="Margin:0; Margin-left: 25px; padding:0; font-family:'proxima_nova', Helvetica, Arial, sans-serif;" type="disc">
+                     <li style="color: #60C1E3; font-size:18px; line-height:26px; margin-bottom: 30px;">
+                         <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                           With 28 sessions, pull up a chair and learn from the brightest minds in the industry.
+                         </span>
+
+    </li>
+    <li style="color: #60C1E3; font-size:18px; line-height:26px; margin-bottom: 30px;"> <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                           Lunch and email? Why not! Talk email with your peers during the lunch breaks and networking sessions and see what you can learn from your&nbsp;peers.
+                         </span>
+
+    </li>
+    <li style="color: #60C1E3; font-size:18px; line-height:26px;"> <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                           Get a deep dive into everything from email development to marketing strategy during one of the exclusive Litmus Live <a href="https://pages.litmus.com/e/31032/ntent-0dynamic-content-1456url/jgp5gz/720438025/staff?h=G84If7IySpEdUy9N5NRVfOspemRH7H_JNMGDw2Pu3vc" class="link" style="color: #ffffff; font-weight:bold; text-decoration:underline;" target="_blank">workshops</a>&mdash;with limited seating you don&rsquo;t want to miss&nbsp;this.
+                         </span>
+
+    </li>
+    </ul>
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+      <tr>
+        <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+      </tr>
+    </table>
+    </td>
+    </tr>
+    </table>
+    <!-- end MOBILE_AMBIVERT -->
+    </span>
+    </div>
+  <!--<![endif]-->
+  </div>
+<!--<![endif]-->
+<!--[if !mso]>
+  <! -->
+  <!-- start MODULE_EXTROVERT -->
+  <table role="presentation" class="padding15 w100p extrovert" cellpadding="0" cellspacing="0"
+  border="0" style="box-shadow: 0 3px 6px 1px rgba(0,0,0,0.1), 0 10px 12px -5px rgba(206,213,219,0.8); padding: 0 20px; border-radius: 3px; background-color: #3C4656; display:none;">
+    <tr>
+      <td align="center" valign="top" style="width: 600px; max-width: 600px;">
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+          </tr>
+        </table>
+        <p style="font-family:'proxima_nova', Helvetica, Arial, sans-serif; font-weight:bold; font-size:22px; line-height:30px; color:#ffffff; text-align:center; margin:0; padding:0; max-width: 450px;">You&rsquo;re an extrovert and love to learn in big groups&mdash;the more voices,
+          the&nbsp;better!</p>
+        <table role="presentation" cellpadding="0" cellspacing="0"
+        border="0">
+          <tr>
+            <td style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+          </tr>
+        </table>
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <td bgcolor="#EEB35B" width="100" style="font-size: 1px; line-height: 2px;">&nbsp;</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" style="width: 600px; max-width: 600px;">
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+          </tr>
+        </table>
+        <ul class="glist" style="Margin:0; Margin-left: 25px; padding:0; font-family:'proxima_nova', Helvetica, Arial, sans-serif;"
+        type="disc">
+          <li style="color: #EEB35B; font-size:18px; line-height:26px; margin-bottom: 30px;"> <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                <a href="https://pages.litmus.com/e/31032/ntent-0dynamic-content-1456url/jgp5gx/720438025/staff?h=G84If7IySpEdUy9N5NRVfOspemRH7H_JNMGDw2Pu3vc" class="link" style="color: #ffffff; font-weight:bold; text-decoration:underline;" target="_blank">Submit your email for Live Optimization</a>, see your email on the big screen, and learn from the Litmus team, some special guests, and your email peers in the audience.
+              </span>
+
+          </li>
+          <li style="color: #EEB35B; font-size:18px; line-height:26px; margin-bottom: 30px;"> <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                Focus your email learning during a <a href="https://pages.litmus.com/e/31032/ntent-0dynamic-content-1456url/jgp5gz/720438025/staff?h=G84If7IySpEdUy9N5NRVfOspemRH7H_JNMGDw2Pu3vc" class="link" style="color: #ffffff; font-weight:bold; text-decoration:underline;" target="_blank">pre-conference workshop</a>. Exclusive to Litmus Live attendees, dig into email development or marketing strategy during these group sessions.
+              </span>
+
+          </li>
+          <li style="color: #EEB35B; font-size:18px; line-height:26px;"> <span class="appleFooter" style="color: #ffffff; font-size:18px; line-height:26px;">
+                Enjoy a post-conference beverage at Thursday night&rsquo;s after-party and talk email with your fellow attendees.
+              </span>
+
+          </li>
+        </ul>
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <!-- end MODULE_EXTROVERT -->
+  <!-- start MODULE_INTROVERT -->
+  <table role="presentation" class="padding15 w100p introvert" cellpadding="0" cellspacing="0"
+  border="0" style="box-shadow: 0 3px 6px 1px rgba(0,0,0,0.1), 0 10px 12px -5px rgba(206,213,219,0.8); padding: 0 20px; border-radius: 3px; background-color: #3C4656; display:none;">
+    <tr>
+      <td align="center" valign="top" style="width: 600px; max-width: 600px;">
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+          </tr>
+        </table>
+        <p style="font-family:'proxima_nova', Helvetica, Arial, sans-serif; font-weight:bold; font-size:22px; line-height:30px; color:#ffffff; text-align:center; margin:0; padding:0; max-width: 450px;">You&rsquo;re an introvert and get the most out of conferences by learning at your
+          own pace. Speaking to folks 1-on-1 is your&nbsp;jam.</p>
+        <table role="presentation"
+        cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <td style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+          </tr>
+        </table>
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <td bgcolor="#EA7165" width="100" style="font-size: 1px; line-height: 2px;">&nbsp;</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" style="width: 600px; max-width: 600px;">
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+          </tr>
+        </table>
+        <ul class="glist" style="Margin:0; Margin-left: 25px; padding:0; font-family:'proxima_nova', Helvetica, Arial, sans-serif;"
+        type="disc">
+          <li style="color: #EA7165; font-size:18px; line-height:26px; margin-bottom: 30px;"> <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                Learn everything from email development to marketing strategy in small group <a href="https://pages.litmus.com/e/31032/ntent-0dynamic-content-1456url/jgp5gz/720438025/staff?h=G84If7IySpEdUy9N5NRVfOspemRH7H_JNMGDw2Pu3vc" class="link" style="color: #ffffff; font-weight:bold; text-decoration:underline;" target="_blank">workshops</a>, only available to Litmus Live attendees.
+              </span>
+
+          </li>
+          <li style="color: #EA7165; font-size:18px; line-height:26px; margin-bottom: 30px;"> <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                Meet with speakers during a 1:1 Ask-an-Expert session to ask your burning email questions.
+              </span>
+
+          </li>
+          <li style="color: #EA7165; font-size:18px; line-height:26px;"> <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                Soak in some serious email knowledge during any one of the 28 sessions over 2 days&mdash;that&rsquo;s a lot of learning!
+              </span>
+
+          </li>
+        </ul>
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <!-- end MODULE_INTROVERT -->
+  <!-- start MODULE_AMBIVERT -->
+  <table role="presentation" class="padding15 w100p ambivert" cellpadding="0" cellspacing="0"
+  border="0" style="box-shadow: 0 3px 6px 1px rgba(0,0,0,0.1), 0 10px 12px -5px rgba(206,213,219,0.8); padding: 0 20px; border-radius: 3px; background-color: #3C4656; display:none;">
+    <tr>
+      <td align="center" valign="top" style="width: 600px; max-width: 600px;">
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+          </tr>
+        </table>
+        <p style="font-family:'proxima_nova', Helvetica, Arial, sans-serif; font-weight:bold; font-size:22px; line-height:30px; color:#ffffff; text-align:center; margin:0; padding:0; max-width: 450px;">You&rsquo;re an ambivert and spend entire conferences soaking in content-laden
+          sessions and email chats over coffee&nbsp;breaks.</p>
+        <table role="presentation"
+        cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <td style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+          </tr>
+        </table>
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <td bgcolor="#60C1E3" width="100" style="font-size: 1px; line-height: 2px;">&nbsp;</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td align="left" style="width: 600px; max-width: 600px;">
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+          </tr>
+        </table>
+        <ul class="glist" style="Margin:0; Margin-left: 25px; padding:0; font-family:'proxima_nova', Helvetica, Arial, sans-serif;"
+        type="disc">
+          <li style="color: #60C1E3; font-size:18px; line-height:26px; margin-bottom: 30px;"> <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                With 28 sessions, pull up a chair and learn from the brightest minds in the industry.
+              </span>
+
+          </li>
+          <li style="color: #60C1E3; font-size:18px; line-height:26px; margin-bottom: 30px;"> <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                Lunch and email? Why not! Talk email with your peers during the lunch breaks and networking sessions and see what you can learn from your&nbsp;peers.
+              </span>
+
+          </li>
+          <li style="color: #60C1E3; font-size:18px; line-height:26px;"> <span style="color: #ffffff; font-size:18px; line-height:26px;">
+                Get a deep dive into everything from email development to marketing strategy during one of the exclusive Litmus Live <a href="https://pages.litmus.com/e/31032/ntent-0dynamic-content-1456url/jgp5gz/720438025/staff?h=G84If7IySpEdUy9N5NRVfOspemRH7H_JNMGDw2Pu3vc" class="link" style="color: #ffffff; font-weight:bold; text-decoration:underline;" target="_blank">workshops</a>&mdash;with limited seating you don&rsquo;t want to miss&nbsp;this.
+              </span>
+
+          </li>
+        </ul>
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <!-- end MODULE_AMBIVERT -->
+<!--<![endif]-->
+<!-- end TAB_SWITCHER -->
+<table role="presentation" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td style="font-size: 1px; line-height: 30px;">&nbsp;</td>
+  </tr>
+</table>
+<p style="font-family: 'proxima_nova', Helvetica, Arial, sans-serif; text-align: left; font-size: 16px; line-height: 26px; color: #3B4656; margin: 0 auto;">As an added bonus, by attending any Litmus Live 2019 event, you&rsquo;ll receive
+  session recordings and slides from <i>all</i> three of our conferences: London, Boston,
+  and San Francisco! And with tickets selling fast, you don&rsquo;t want to miss&nbsp;out.</p>
+<table
+role="presentation" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td style="font-size: 1px; line-height: 30px;">&nbsp;</td>
+  </tr>
+  </table>
+  <!-- start CTA_BUTTON -->
+  <a href="https://pages.litmus.com/e/31032/ntent-0dynamic-content-1456url/jgp5h2/720438025/staff?h=G84If7IySpEdUy9N5NRVfOspemRH7H_JNMGDw2Pu3vc"
+  class="cta btn-granite" target="_blank" style="background-color:#3c4656;border-width:1px;border-style:solid;border-color:#3c4656;mso-border-alt:8px solid #3c4656;font-size:18px;color:#FFFFFF;font-family:'proxima_nova_rgregular', Proxima Nova, Helvetica, Arial, sans-serif;font-weight:bold;text-decoration:none;padding-top:15px;padding-bottom:15px;padding-right:30px;padding-left:30px;display:inline-block;mso-padding-alt:0px;box-shadow:0 15px 35px rgba(50,50,93,.1), 0 5px 15px rgba(0,0,0,.07);border-radius:50px !important;">Get your ticket&nbsp;<span aria-hidden="true">&rarr;</span>
+
+  </a>
+  <!-- start CTA_BUTTON -->
+  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td style="font-size: 1px; line-height: 50px;">&nbsp;</td>
+    </tr>
+  </table>
+  <a href="https://pages.litmus.com/e/31032/ntent-0dynamic-content-1456url/jgp5h4/720438025/staff?h=G84If7IySpEdUy9N5NRVfOspemRH7H_JNMGDw2Pu3vc"
+  aria-hidden="true" target="_blank">
+    <img class="fadeimg" src="https://campaigns.litmus.com/_email/2019/09_sep/20190913_LL-London-Highlights/images/tickets.png"
+    width="311" alt="" style="display: block; margin: 0 auto; padding: 0; max-width: 100%;"
+    border="0" />
+  </a>
+  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td style="font-size: 1px; line-height: 30px;">&nbsp;</td>
+    </tr>
+  </table>
+   <h2 style="font-family: 'brandon', Helvetica, Arial, sans-serif; font-weight: bold; font-size: 36px; line-height: 44px; color: #454F62; text-align:center; margin:0; padding:0;">
+          Bring Your Team and Get a 10%&nbsp;Discount
+      </h2>
+
+  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td style="font-size: 1px; line-height: 20px;">&nbsp;</td>
+    </tr>
+  </table>
+  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td bgcolor="#cad2df" width="82" style="font-size: 1px; line-height: 3px;">&nbsp;</td>
+    </tr>
+  </table>
+  <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td style="font-size: 1px; line-height: 30px;">&nbsp;</td>
+    </tr>
+  </table>
+  <p style="font-family: 'proxima_nova', Helvetica, Arial, sans-serif; text-align: left; font-size: 16px; line-height: 26px; color: #3B4656; margin: 0 auto;">Email marketing is a team sport and in honor of this, we&rsquo;re offering a 10%
+    discount to groups of 3 or more attendees from the same company who register together.
+    With sessions covering email design, marketing strategy, and innovative coding
+    techniques, there&rsquo;s something for every team member at Litmus&nbsp;Live.</p>
+  <table
+  role="presentation" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td style="font-size: 1px; line-height:30px;">&nbsp;</td>
+    </tr>
+    </table>
+    <!-- start CTA_BUTTON -->
+    <a href="https://pages.litmus.com/e/31032/ntent-0dynamic-content-1456url/jgp5h4/720438025/staff?h=G84If7IySpEdUy9N5NRVfOspemRH7H_JNMGDw2Pu3vc"
+    class="cta btn-granite" target="_blank" style="background-color:#3c4656;border-width:1px;border-style:solid;border-color:#3c4656;mso-border-alt:8px solid #3c4656;font-size:18px;color:#FFFFFF;font-family:'proxima_nova_rgregular', Proxima Nova, Helvetica, Arial, sans-serif;font-weight:bold;text-decoration:none;padding-top:15px;padding-bottom:15px;padding-right:30px;padding-left:30px;display:inline-block;mso-padding-alt:0px;box-shadow:0 15px 35px rgba(50,50,93,.1), 0 5px 15px rgba(0,0,0,.07);border-radius:50px !important;">Get your team to Litmus&nbsp;Live&nbsp;<span aria-hidden="true">&rarr;</span>
+
+    </a>
+    <!-- start CTA_BUTTON -->
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+      <tr>
+        <td style="font-size: 1px; line-height: 30px;">&nbsp;</td>
+      </tr>
+    </table>
+    <p style="font-family: 'proxima_nova', Helvetica, Arial, sans-serif; margin: 0; font-size: 14px; line-height: 22px; text-align: left; color: #3C4656;">To redeem your discount, please purchase tickets as normal and contact us at
+      <a
+      href="mailto:conference@litmus.com?subject=I%27d%20like%20to%20bring%20my%20team%20to%20Litmus%20Live"
+      class="link" style="color: #3C4656; text-decoration: underline;" target="_blank">conference@litmus.com</a>. After we verify your group purchase, we'll issue the
+        discount as a refund through&nbsp;EventBrite.</p>
+    <table role="presentation" cellpadding="0"
+    cellspacing="0" border="0">
+      <tr>
+        <td style="font-size: 1px; line-height: 70px;">&nbsp;</td>
+      </tr>
+    </table>
+    </td>
+    </tr>
+    </table>
+    </td>
+    </tr>
+    </table>
+    <!-- end BODY -->
+    <!-- start FOOTER_SECTION -->
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+      <tr>
+        <td align="center" bgcolor="#3c4656" style="padding: 0px 15px;">
+          <table role="presentation" class="w100p" cellpadding="0" cellspacing="0" border="0"
+          style="width: 600px; max-width: 600px;">
+            <tr>
+              <td align="center">
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td style="font-size: 1px; line-height: 65px;">&nbsp;</td>
+                  </tr>
+                </table>
+                <a href="https://pages.litmus.com/e/31032/ntent-0dynamic-content-1456url/jgp5h6/720438025/staff?h=G84If7IySpEdUy9N5NRVfOspemRH7H_JNMGDw2Pu3vc"
+                target="_blank">
+                  <img src="https://campaigns.litmus.com/_email/_global/images/logo_icon-white.png"
+                  width="30" height="30" border="0" style="display:block; color: #ffffff; font-family:'proxima_nova', Helvetica, Arial, sans-serif; text-align:center; font-weight:bold; font-size:27px; line-height:30px; text-decoration: none; margin: 0 auto; padding: 0;"
+                  alt="Litmus" />
+                </a>
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td style="font-size: 1px; line-height: 25px;">&nbsp;</td>
+                  </tr>
+                </table>
+                <p style="font-family:'proxima_nova', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; color:#ffffff;"> <span class="appleFooter">
+          675 Massachusetts Ave.<br>
+          Cambridge, MA 02139, USA<br>
+        </span>
+
+                  <a href="https://pages.litmus.com/webmail/31032/720438025/250fd71ed9cfeff8e6fe2c19fb622ca2126b180f52661221dbd48298301eee48"
+                  class="link" style="color: #ffffff; text-decoration: underline;" target="_blank">View online</a>
+                  <br>
+                  <br>You&rsquo;re receiving this email because you&rsquo;ve signed up to receive updates
+                  from Litmus. If you&rsquo;d prefer not to receive updates, you can
+                  <a href="https://pages.litmus.com/emailPreference/epc/31032/PwVMfS8dQkKOPeTUOb11YU-cmQtwMlY79TwYKgPg-Hw/250fd71ed9cfeff8e6fe2c19fb622ca2126b180f52661221dbd48298301eee48/720438025"
+                  class="link" style="color: #ffffff; text-decoration: underline;" target="_blank">manage your preferences</a>or
+                  <a href="https://pages.litmus.com/unsubscribe/u/31032/250fd71ed9cfeff8e6fe2c19fb622ca2126b180f52661221dbd48298301eee48/720438025"
+                  class="link" style="color: #ffffff; text-decoration: underline;" target="_blank">unsubscribe from&nbsp;all</a>.</p>
+                <table role="presentation" cellpadding="0" cellspacing="0"
+                border="0">
+                  <tr>
+                    <td style="font-size: 1px; line-height: 70px;">&nbsp;</td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <!-- end FOOTER_SECTION -->
+    </td>
+    </tr>
+    </table>
+    <!-- start ANALYTICS -->
+    <img src="https://pixel.app.returnpath.net/pixel.gif?r=cc12f0791ee5d431c4f8b1a636647dfcf158b4e6"
+    width="1" height="1" />
+    <style data-ignore-inlining>
+      @media print{ #_t { background-image: url('https://ghas55c8.emltrk.com/ghas55c8?p&d=ali@litmus.com');}} div.OutlookMessageHeader {background-image:url('https://ghas55c8.emltrk.com/ghas55c8?f&d=ali@litmus.com')} table.moz-email-headers-table {background-image:url('https://ghas55c8.emltrk.com/ghas55c8?f&d=ali@litmus.com')} blockquote #_t {background-image:url('https://ghas55c8.emltrk.com/ghas55c8?f&d=ali@litmus.com')} #MailContainerBody #_t {background-image:url('https://ghas55c8.emltrk.com/ghas55c8?f&d=ali@litmus.com')}
+    </style>
+    <div id="_t"></div>
+    <img src="https://ghas55c8.emltrk.com/ghas55c8?d=ali@litmus.com" width="1"
+    height="1" border="0" alt="" />
+    <!-- end ANALYTICS -->
+    <img alt="" src="https://pages.litmus.com/r/31032/1/720438025/open/1" />
+    <style data-ignore-inlining>
+      @media print{ #_t { background-image: url('https://sirtsxty.emltrk.com/sirtsxty?p&d=[UNIQUE]');}} div.OutlookMessageHeader {background-image:url('https://sirtsxty.emltrk.com/sirtsxty?f&d=[UNIQUE]')} table.moz-email-headers-table {background-image:url('https://sirtsxty.emltrk.com/sirtsxty?f&d=[UNIQUE]')} blockquote #_t {background-image:url('https://sirtsxty.emltrk.com/sirtsxty?f&d=[UNIQUE]')} #MailContainerBody #_t {background-image:url('https://sirtsxty.emltrk.com/sirtsxty?f&d=[UNIQUE]')}
+    </style>
+    <div id="_t"></div>
+    <img src="https://sirtsxty.emltrk.com/sirtsxty?d=[UNIQUE]" width="1" height="1"
+    border="0" alt="" />
+  </body>
+
+</html>
