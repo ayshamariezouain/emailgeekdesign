@@ -1,0 +1,668 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+	<title>Interactive Email Style Guide</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta content="IE=EmulateIE7" http-equiv="X-UA-Compatible">
+	<style type="text/css">
+	* {
+		-webkit-text-size-adjust: none;
+		-ms-text-size-adjust: none;
+		max-height: 1000000px;
+	}
+	.gmailfix {
+		display: none;
+		display: none!important;
+	}
+	div {
+		display: block !important;
+	}
+	table {
+		border-collapse: collapse !important;
+	}
+	th {
+		margin: 0 !important;
+		padding: 0 !important;
+		vertical-align: top;
+		font-weight: normal;
+	}
+	#outlook a {
+		padding: 0;
+	}
+	#backgroundTable {
+		margin: 0;
+		padding: 0;
+		width: 100%;
+		line-height: 100%
+	}
+	.ReadMsgBody {
+		width: 100%;
+	}
+	.ExternalClass {
+		width: 100%;
+	}
+	.ExternalClass * {
+		line-height: 100%;
+	}
+	@media screen and (max-width: 599px) {
+		table[id="spacer-600"] {
+			display: none !important;
+		}
+	}
+	/* start PROGRESSIVE ENHANCEMENT STYLES */
+	.yfix {} 
+	
+	.txt-underline:hover {
+		text-decoration: underline !important;
+	}
+	.txt-color:hover {
+		color: #c81c16 !important;
+	}
+	.txt-shadow:hover {
+		text-shadow: 0px 0px 3px #7f8590 !important;
+	}
+	.bg-color:hover {
+		background-color: #585f6a !important;
+	}
+	.bg-rgba {
+		transition: 0.3s !important;
+	}
+	.bg-rgba:hover {
+		background-color: rgba(9, 10, 12, 0.55) !important;
+		transition: 0.3s !important;
+	}
+	.fade-fast:hover {
+		opacity: 0.5 !important;
+	}
+	.fade-slow {
+		transition: 0.3s !important;
+		opacity: 1;
+	}
+	.fade-slow:hover {
+		transition: 0.3s !important;
+		opacity: 0.5 !important;
+	}
+	.bgimg-swap:hover {
+		background-image: url('http://www.fillmurray.com/284/197') !important;
+	}
+	.img-swap:hover img {
+		max-height: 0px !important;
+		height: 0px !important;
+	}
+	.grow {
+		transition: 0.3s !important;
+	}
+	.grow:hover {
+		background-color: #298aae !important;
+		height: 50px !important;
+		position: relative !important;
+		transition: 0.3s !important;
+	}
+	/* end PROGRESSIVE ENHANCEMENT STYLES */
+	</style>
+	<!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+  <o:PixelsPerInch>96</o:PixelsPerInch>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+</head>
+
+<body style="padding:0; margin:0; text-align:center; background-color: #e9e9e9;">
+
+	<TABLE width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
+		<TR>
+			<TD width="100%" valign="top" align="center" bgcolor="#e9e9e9">
+
+				<TABLE border="0" cellpadding="0" cellspacing="0">
+					<TR>
+						<TD width="600" align="center">
+							<DIV style="vertical-align:top; font-family:Arial, Helvetica, sans-serif; color:#16191e; font-size: 36px; line-height: 80px;">
+								Interactive Email Elements</DIV>
+
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="600" height="1" bgcolor="#16191e">
+										<IMG style="display:block;" src="http://shutterstock-marketing-assets.s3.amazonaws.com/CRM/2016/_global/images/spacer.gif" width="600" height="1">
+									</TD>
+								</TR>
+							</TABLE>
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="1" height="20"></TD>
+								</TR>
+							</TABLE>
+							<!-- ---------------------------------------------------------------------------- -->
+
+
+
+							<DIV style="vertical-align:top; font-family:Arial, Helvetica, sans-serif; color:#16191e; font-size: 20px; line-height: 30px;">
+								Hover Effects: Text</DIV>
+
+
+
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="1" height="20"></TD>
+								</TR>
+							</TABLE>
+
+
+							<DIV style="font-family:Arial, Helvetica, sans-serif; color:#43b9d3; font-size: 18px; line-height: 25px;">
+
+								<A HREF="#" style="color:#43b9d3; text-decoration:none;"><SPAN style="font-size: 18px; line-height: 30px;" class="txt-color">
+Change Color</SPAN></A>
+
+								<BR>
+
+								<A HREF="#" style="color:#43b9d3; text-decoration:none;"><SPAN style="font-size: 18px; line-height: 30px;" class="txt-underline">
+Underline</SPAN></A>
+
+								<BR>
+
+								<A HREF="#" style="color:#43b9d3; text-decoration:none;"><SPAN style="font-size: 18px; line-height: 30px;" class="txt-shadow">
+Dropshadow</SPAN></A>
+
+
+							</DIV>
+
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="1" height="20"></TD>
+								</TR>
+							</TABLE>
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="600" height="1" bgcolor="#16191e">
+										<IMG style="display:block;" src="http://shutterstock-marketing-assets.s3.amazonaws.com/CRM/2016/_global/images/spacer.gif" width="600" height="1">
+									</TD>
+								</TR>
+							</TABLE>
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="1" height="20"></TD>
+								</TR>
+							</TABLE>
+							<!-- ---------------------------------------------------------------------------- -->
+
+
+							<DIV style="vertical-align:top; font-family:Arial, Helvetica, sans-serif; color:#16191e; font-size: 20px; line-height: 30px;">
+								Hover Effects: Fades</DIV>
+							<DIV style="vertical-align:top; font-family:Arial, Helvetica, sans-serif; color:#16191e; font-size: 14px; line-height: 17px;">
+								&#8594; Can apply to nearly any element: text, images, tables
+								<BR> &#8594; Slow or immediate</DIV>
+
+
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="1" height="20"></TD>
+								</TR>
+							</TABLE>
+
+
+
+							<TABLE border="0" cellpadding="0" cellspacing="0" width="284" bgcolor="#d91e18">
+								<TR>
+									<TD width="284" style="font-family:Arial, Helvetica, sans-serif; color:#43b9d3; font-size: 18px; line-height: 25px; font-weight:bold;" align="center">
+										<A HREF="#" style="color:#43b9d3; text-decoration:none;"><SPAN style="font-size: 18px; line-height: 30px;" class="fade-slow">
+Fade Text</SPAN></A>
+									</TD>
+								</TR>
+							</TABLE>
+
+
+
+							<!-- start IMAGE OPACITY HOVER w/ TRANSITION -->
+							<TABLE border="0" cellpadding="0" cellspacing="0" width="284" height="198" bgcolor="#d91e18">
+								<TR>
+									<TD width="284" height="198">
+										<A HREF="#" style="display:block;">
+											<IMG style="display:block;" src="http://www.fillmurray.com/g/284/198" width="284" height="198" border="0" class="fade-slow">
+										</A>
+									</TD>
+								</TR>
+							</TABLE>
+							<!-- end IMAGE OPACITY HOVER w/ TRANSITION -->
+
+							<DIV style="vertical-align:top; font-family:Arial, Helvetica, sans-serif; color:#16191e; font-size: 14px; line-height: 25px;">0.3 second 50% opacity fade w/ red background</DIV>
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="1" height="20"></TD>
+								</TR>
+							</TABLE>
+
+
+
+
+
+							<!-- start IMAGE OPACITY HOVER w/o TRANSITION -->
+							<TABLE border="0" cellpadding="0" cellspacing="0" width="284" height="198">
+								<TR>
+									<TD width="284" height="198">
+										<A HREF="#" style="display:block; text-decoration:none;">
+											<IMG style="display:block;" src="http://www.fillmurray.com/g/284/198" width="284" height="198" border="0" class="fade-fast">
+										</A>
+									</TD>
+								</TR>
+							</TABLE>
+
+							<BR>
+
+							<TABLE border="0" cellpadding="0" cellspacing="0" width="94" height="66">
+								<TR>
+									<TD width="94" height="66">
+										<A HREF="#" style="display:block; text-decoration:none;">
+											<img style="display:block;" src="http://shutterstock-marketing-assets.s3.amazonaws.com/CRM/2016/_global/images/201505_icon-bk_editorial.png" width="94" height="66" border="0" class="fade-fast">
+										</A>
+									</TD>
+								</TR>
+							</TABLE>
+							<!-- end IMAGE OPACITY HOVER w/o TRANSITION -->
+
+
+							<TABLE border="0" cellpadding="0" cellspacing="0" width="284">
+								<TR>
+									<TD width="284" style="font-family:Arial, Helvetica, sans-serif; color:#d91e18; font-size: 18px; line-height: 25px; font-weight:bold;" align="center">
+										<A HREF="#" style="color:#d91e18; text-decoration:none;"><SPAN style="font-size: 18px; line-height: 30px;" class="fade-fast">
+Fade Text</SPAN></A>
+									</TD>
+								</TR>
+							</TABLE>
+
+							<DIV style="vertical-align:top; font-family:Arial, Helvetica, sans-serif; color:#16191e; font-size: 14px; line-height: 25px;">0 second 50% opacity fade w/ transparent background
+								<BR> &#8594; Useful for logos &amp; icons</DIV>
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="1" height="20"></TD>
+								</TR>
+							</TABLE>
+
+
+
+
+
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="1" height="20"></TD>
+								</TR>
+							</TABLE>
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="600" height="1" bgcolor="#16191e">
+										<IMG style="display:block;" src="http://shutterstock-marketing-assets.s3.amazonaws.com/CRM/2016/_global/images/spacer.gif" width="600" height="1">
+									</TD>
+								</TR>
+							</TABLE>
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="1" height="20"></TD>
+								</TR>
+							</TABLE>
+							<!-- ---------------------------------------------------------------------------- -->
+
+
+							<DIV style="vertical-align:top; font-family:Arial, Helvetica, sans-serif; color:#16191e; font-size: 20px; line-height: 30px;">
+								Hover Effects: Background Colors</DIV>
+							<DIV style="vertical-align:top; font-family:Arial, Helvetica, sans-serif; color:#16191e; font-size: 14px; line-height: 17px;">
+								&#8594; Useful for CTAs and modules</DIV>
+
+
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="1" height="20"></TD>
+								</TR>
+							</TABLE>
+
+
+
+
+
+							<!-- start BGCOLOR SWAP -->
+							<TABLE class="bg-color" border="0" cellpadding="0" cellspacing="0" bgcolor="#d91e18" style="border-radius: 5px;">
+								<TR>
+									<TD align="center">
+										<TABLE border="0" cellpadding="0" cellspacing="0" height="40">
+											<TR>
+												<TD width="30" height="40"></TD>
+												<TD align="center" valign="middle" style="vertical-align: middle; font-family:Arial, Helvetica, sans-serif; color:#ffffff; font-size: 16px; line-height: 19px;">
+													<A HREF="#" style="display:block; color:#ffffff; text-decoration:none;"><span style="line-height: 19px;">
+Horizontal Expandable Block</span></A>
+												</TD>
+												<TD width="30" height="40"></TD>
+											</TR>
+										</TABLE>
+									</TD>
+								</TR>
+							</TABLE>
+							<!-- end BGCOLOR SWAP CTA -->
+
+							<DIV style="vertical-align:top; font-family:Arial, Helvetica, sans-serif; color:#16191e; font-size: 14px; line-height: 25px;">
+								Swap background colors on hover</DIV>
+
+
+
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="1" height="20"></TD>
+								</TR>
+							</TABLE>
+							<TABLE width="600" border="0" cellpadding="0" cellspacing="0" bgcolor="#808080">
+								<TR>
+									<td background="http://shutterstock-marketing-assets.s3.amazonaws.com/CRM/2016/_global/images/201505_bgtrans.png" bgcolor="#808080" width="600" height="100" valign="top">
+										<!--[if gte mso 9]>
+  <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px;height:100px;">
+    <v:fill type="tile" src="http://shutterstock-marketing-assets.s3.amazonaws.com/CRM/2016/_global/images/201505_bgtrans.png" color="#808080" />
+    <v:textbox inset="0,0,0,0">
+  <![endif]-->
+										<TABLE border="0" cellpadding="0" cellspacing="0" width="600" height="100">
+											<TR>
+												<TD width="600" height="100" align="center" valign="middle" style="vertical-align:middle;">
+													<TABLE border="0" cellpadding="0" cellspacing="0">
+														<TR>
+															<TD width="1" height="20"></TD>
+														</TR>
+													</TABLE>
+
+
+
+
+													<!-- start GHOST RGBA FADE -->
+													<TABLE border="0" cellpadding="0" cellspacing="0">
+														<TR>
+															<TD colspan="3" height="1" bgcolor="#ffffff"></TD>
+														</TR>
+														<TR>
+															<TD width="1" bgcolor="#ffffff"></TD>
+															<TD class="bg-rgba" style="vertical-align: middle; background-color:transparent;" height="38" align="center" valign="middle">
+
+																<TABLE border="0" cellpadding="0" cellspacing="0" height="38">
+																	<TR>
+																		<TD width="28" height="38"></TD>
+																		<TD align="center" valign="middle" style="vertical-align: middle; font-family:Arial, Helvetica, sans-serif; color:#ffffff; font-size: 16px; line-height: 19px;">
+																			<A HREF="#" style="font-family:Arial, Helvetica, sans-serif; display:block; color:#ffffff; text-decoration:none;"><span style="line-height: 19px;">
+
+Horizontal Expandable Block</span></A>
+																		</TD>
+																		<TD width="28" height="38"></TD>
+																	</TR>
+																</TABLE>
+															</TD>
+															<TD width="1" bgcolor="#ffffff"></TD>
+														</TR>
+														<TR>
+															<TD colspan="3" height="1" bgcolor="#ffffff"></TD>
+														</TR>
+													</TABLE>
+													<!-- end GHOST RGBA FADE -->
+
+
+
+													<TABLE border="0" cellpadding="0" cellspacing="0">
+														<TR>
+															<TD width="1" height="20"></TD>
+														</TR>
+													</TABLE>
+												</TD>
+											</TR>
+										</TABLE>
+										<!--[if gte mso 9]>
+    </v:textbox>
+  </v:rect>
+  <![endif]-->
+									</td>
+								</TR>
+							</TABLE>
+							<DIV style="vertical-align:top; font-family:Arial, Helvetica, sans-serif; color:#16191e; font-size: 14px; line-height: 25px;">
+								"Ghost" effect w/ 0.3 second fade 55% RGBA background</DIV>
+
+
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="1" height="20"></TD>
+								</TR>
+							</TABLE>
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="600" height="1" bgcolor="#16191e">
+										<IMG style="display:block;" src="http://shutterstock-marketing-assets.s3.amazonaws.com/CRM/2016/_global/images/spacer.gif" width="600" height="1">
+									</TD>
+								</TR>
+							</TABLE>
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="1" height="20"></TD>
+								</TR>
+							</TABLE>
+							<!-- ---------------------------------------------------------------------------- -->
+
+
+
+
+
+							<DIV style="vertical-align:top; font-family:Arial, Helvetica, sans-serif; color:#16191e; font-size: 20px; line-height: 30px;">
+								Hover Effects: Background Images</DIV>
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="1" height="20"></TD>
+								</TR>
+							</TABLE>
+
+
+
+
+
+							<!-- start BACKGROUND IMAGE SWAP -->
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<td class="bgimg-swap" background="http://www.fillmurray.com/g/284/197" bgcolor="#666666" width="284" height="197" valign="top">
+										<!--[if gte mso 9]>
+  <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:284px;height:197px;">
+    <v:fill type="tile" src="http://www.fillmurray.com/g/284/197" color="#666666" />
+    <v:textbox inset="0,0,0,0">
+  <![endif]-->
+										<TABLE border="0" cellpadding="0" cellspacing="0" width="284" height="197" style="width:284px;height:197px;">
+											<TR>
+												<TD width="284" height="197" style="width:284px;height:197px; font-family:Arial, Helvetica, sans-serif; color:#ffffff; font-size: 18px; line-height: 25px; font-weight:bold; text-shadow: 0px 0px 5px #333333;" align="center">
+
+													<SPAN class="fade-fast" style="display:block; line-height: 25px;">
+Background Image Behind System Text &amp; Floating Image</SPAN>
+
+													<TABLE border="0" cellpadding="0" cellspacing="0">
+														<TR>
+															<TD width="116" height="90">
+																<A HREF="#">
+																	<IMG style="display:block;" src="http://shutterstock-marketing-assets.s3.amazonaws.com/CRM/2016/_global/images/201505_icon-yt_vector.png" width="116" height="90" border="0" class="fade-fast">
+																</A>
+															</TD>
+														</TR>
+													</TABLE>
+
+												</TD>
+											</TR>
+										</TABLE>
+										<!--[if gte mso 9]>
+    </v:textbox>
+  </v:rect>
+  <![endif]-->
+									</td>
+								</TR>
+							</TABLE>
+							<!-- end BACKGROUND IMAGE SWAP -->
+
+							<DIV style="vertical-align:top; font-family:Arial, Helvetica, sans-serif; color:#16191e; font-size: 14px; line-height: 25px;">Swap background images on hover</DIV>
+
+
+
+
+
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="1" height="20"></TD>
+								</TR>
+							</TABLE>
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="600" height="1" bgcolor="#16191e">
+										<IMG style="display:block;" src="http://shutterstock-marketing-assets.s3.amazonaws.com/CRM/2016/_global/images/spacer.gif" width="600" height="1">
+									</TD>
+								</TR>
+							</TABLE>
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="1" height="20"></TD>
+								</TR>
+							</TABLE>
+							<!-- ---------------------------------------------------------------------------- -->
+
+
+
+
+
+							<DIV style="vertical-align:top; font-family:Arial, Helvetica, sans-serif; color:#16191e; font-size: 20px; line-height: 30px;">
+								Hover Effects: Images</DIV>
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="1" height="20"></TD>
+								</TR>
+							</TABLE>
+
+
+
+
+
+							<!-- start IMAGE SWAP -->
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="284" height="196" background="http://www.fillmurray.com/g/284/196" bgcolor="#666666">
+										<A class="img-swap" HREF="#" style="display:block;width:284px;height:196px;">
+											<IMG style="display:block;" src="http://www.fillmurray.com/284/196" width="284" height="196" border="0">
+										</A>
+									</TD>
+								</TR>
+							</TABLE>
+							<!-- end IMAGE SWAP -->
+
+							<DIV style="vertical-align:top; font-family:Arial, Helvetica, sans-serif; color:#16191e; font-size: 14px; line-height: 25px;">Swap images on hover</DIV>
+
+
+
+
+
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="1" height="20"></TD>
+								</TR>
+							</TABLE>
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="600" height="1" bgcolor="#16191e">
+										<IMG style="display:block;" src="http://shutterstock-marketing-assets.s3.amazonaws.com/CRM/2016/_global/images/spacer.gif" width="600" height="1">
+									</TD>
+								</TR>
+							</TABLE>
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="1" height="20"></TD>
+								</TR>
+							</TABLE>
+							<!-- ---------------------------------------------------------------------------- -->
+
+
+
+
+
+							<DIV style="vertical-align:top; font-family:Arial, Helvetica, sans-serif; color:#16191e; font-size: 20px; line-height: 30px;">
+								Hover Effects: Pop-Up Tab</DIV>
+
+
+
+
+
+							<!-- start POP-UP TAB -->
+							<TABLE border="0" cellpadding="0" cellspacing="0" align="center">
+								<TR>
+									<TD align="center" valign="bottom" style="overflow:hidden; vertical-align:bottom;">
+										<TABLE border="0" cellpadding="0" cellspacing="0" align="center">
+											<TR>
+												<TD height="60" align="center" valign="bottom" style="vertical-align:bottom;">
+													<TABLE class="grow" border="0" width="270" height="30" cellpadding="0" cellspacing="0" bgcolor="#187395" align="center">
+														<TR>
+															<TD align="center" height="30" valign="top" style="vertical-align:top; font-family:Arial, Helvetica, sans-serif; font-size: 16px; line-height: 19px; color: #ffffff; text-align:center; display:block; height: 30px;">
+																<TABLE border="0" cellpadding="0" cellspacing="0">
+																	<TR>
+																		<TD width="1" height="5"></TD>
+																	</TR>
+																</TABLE>
+																<A HREF="#" style="display:block; color:#ffffff; text-decoration:none; line-height: 19px;">
+Pop-Up Tab</A>
+															</TD>
+														</TR>
+													</TABLE>
+												</TD>
+											</TR>
+										</TABLE>
+									</TD>
+								</TR>
+							</TABLE>
+							<!-- end POP-UP TAB -->
+							<!-- start MAIN CONTAINER -->
+							<TABLE width="285" height="80" border="0" cellpadding="0" cellspacing="0" bgcolor="#298aae">
+								<TR>
+									<TD width="285" height="80" align="center" style="font-family: Arial, Helvetica, sans-serif; color:#ffffff; font-size: 24px; line-height: 31px;">
+										<A HREF="#" style="display:block; color:#ffffff; text-decoration:none; line-height: 80px; font-weight:normal;">Main</A>
+									</TD>
+								</TR>
+							</TABLE>
+							<!-- end MAIN CONTAINER -->
+
+							<DIV style="vertical-align:top; font-family:Arial, Helvetica, sans-serif; color:#16191e; font-size: 14px; line-height: 25px;">Tab slides up &amp; changes color on hover</DIV>
+
+
+
+
+
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="1" height="20"></TD>
+								</TR>
+							</TABLE>
+							<TABLE border="0" cellpadding="0" cellspacing="0">
+								<TR>
+									<TD width="1" height="20"></TD>
+								</TR>
+							</TABLE>
+							<!-- ---------------------------------------------------------------------------- -->
+
+
+
+						</TD>
+					</TR>
+				</TABLE>
+			</TD>
+		</TR>
+	</TABLE>
+
+	<TABLE border="0" cellpadding="0" cellspacing="0">
+		<TR>
+			<TD width="1" height="10">
+				<IMG style="display:block;" src="http://shutterstock-marketing-assets.s3.amazonaws.com/CRM/2016/_global/images/spacer.gif" width="1" height="10">
+			</TD>
+		</TR>
+	</TABLE>
+
+
+	<!-- prevent gmail app from auto-resizing email -->
+	<table width="600" border="0" cellpadding="0" cellspacing="0" class="container" id="spacer-600" style="width:600px;max-width:600px;min-width:600px">
+		<tr>
+			<td><img src="http://shutterstock-marketing-assets.s3.amazonaws.com/CRM/2016/_global/images/spacer.gif" border="0" width="600" height="1" hspace="0" vspace="0" style="width:600px;min-width:600px">
+			</td>
+		</tr>
+	</table>
+
+	<div class="gmailfix" style="white-space:nowrap; font:15px courier; line-height:0;">
+		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+
+</body>
+
+</html>
