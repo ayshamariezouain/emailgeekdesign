@@ -1,0 +1,39 @@
+*/Created by Jason Hanshaw/*
+
+<form method="post" action="YOUR PROCESSING PAGE" id="csv_upload">
+   <p>
+      Upload File:
+   </p>
+   <input id="csvUpload" type="file" name="file"/>
+   <input type="hidden" maxlength="" name="csv" id="csv" value="" />
+   <br/>
+   <br/>
+   <button id="button" type="submit">Submit</button>
+</form>
+<script >
+function uploadDealcsv() {};
+uploadDealcsv.prototype.getCsv = function(e) {
+  let input = document.getElementById('csvUpload');
+  input.addEventListener('change', function() {
+    if (this.files && this.files[0]) {
+      var myFile = this.files[0];
+      var reader = new FileReader();
+      reader.addEventListener('load', function(e) {
+        let csvdata = e.target.result;
+        parseCsv.getParsecsvdata(csvdata);
+      });
+      reader.readAsBinaryString(myFile);
+    }
+  });
+}
+uploadDealcsv.prototype.getParsecsvdata = function(data) {
+  let parsedata = [];
+  let newLinebrk = data.split("\n");
+  for (let i = 0; i < newLinebrk.length; i++) {
+    parsedata.push(newLinebrk[i].split(","))
+  }
+  document.getElementById("csv").value = parsedata;
+}
+var parseCsv = new uploadDealcsv();
+parseCsv.getCsv();
+</script>
