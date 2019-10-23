@@ -1,0 +1,102 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><META http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body><div>
+              <div>
+                <label>
+                  <input type="radio" name="option" value="Option1" checked>
+                  Option1               
+                </label>
+              </div>
+              <div>
+                <label>
+                  <input type="radio" name="option" value="Option2">
+                  Option2
+                </label>
+              </div>
+              <div>
+                <label>
+                  <input type="radio" name="option" value="Option1">
+                  Option3
+                </label>
+              </div>
+            </div>
+
+
+set your form method to post and action to your form handler/thankyou cloud page
+On that page you would set the ampscript as follows:
+
+set @option = RequestParameter(&#39;option&#39;)
+if @option == &quot;Option1&quot; then
+set @chosen = &quot;option 1 value&quot;
+elseif @option == &quot;Option2&quot; then
+set @chosen = &quot;option 2 value&quot;
+etc
+
+so that captures the option based off of the form input `name` value and sets it to whatever the value is.
+Then you use an upsertData function to take the input and push it into a DE to hold the preferences
+
+<a href="https://developer.salesforce.com/docs/atlas.en-us.noversion.mc-programmatic-content.meta/mc-programmatic-content/upsertdata.htm?search_text=upsertData" target="_blank">https://developer.salesforce.<wbr>com/docs/atlas.en-us.<wbr>noversion.mc-programmatic-<wbr>content.meta/mc-programmatic-<wbr>content/upsertdata.htm?search_<wbr>text=upsertData</a>
+
+Then from there you can filter the resulting DE for the user preferences.
+does that make sense?
+so then the form handler ends up looking like this
+
+VAR @PreferenceRows,@<wbr>SubscriberRows
+/*SET @SubscriberID = RequestParameter(&#39;sid&#39;)*/
+SET @SubscriberKey = RequestParameter(&#39;sk&#39;)
+SET @JobID = RequestParameter(&#39;j&#39;)
+SET @options = RequestParameter(&#39;opt&#39;)
+SET @SubscriberRows = LookupRows(&#39;Preferences&#39;,&#39;<wbr>SubscriberKey&#39;,@SubscriberKey)
+
+IF RowCount(@SubscriberRows) &gt; 0 THEN
+  SET @r = ROW(@SubscriberRows,1)
+  SET @EmailAddress = Field(@r, &#39;EmailAddress&#39;)
+
+  IF @options == 1 THEN
+    UpsertData(&#39;Preferences&#39;,1,&#39;<wbr>SubscriberKey&#39;,@SubscriberKey,<wbr>&#39;EmailAddress&#39;,@EmailAddress,&#39;<wbr>AllNews&#39;,1,&#39;90Day&#39;,0,&#39;90DayTS&#39;<wbr>,null,&#39;Monthly&#39;,0,&#39;Christmas&#39;,<wbr>0,&#39;Unsubscribe&#39;,0)
+  ELSEIF @options == 2 THEN
+    UpsertData(&#39;Preferences&#39;,1,&#39;<wbr>SubscriberKey&#39;,@SubscriberKey,<wbr>&#39;EmailAddress&#39;,@EmailAddress,&#39;<wbr>AllNews&#39;,0,&#39;90Day&#39;,1,&#39;90DayTS&#39;<wbr>,NOW(),&#39;Monthly&#39;,0,&#39;Christmas&#39;<wbr>,0,&#39;Unsubscribe&#39;,0)
+  ELSEIF @options == 3 THEN
+    UpsertData(&#39;Preferences&#39;,1,&#39;<wbr>SubscriberKey&#39;,@SubscriberKey,<wbr>&#39;EmailAddress&#39;,@EmailAddress,&#39;<wbr>AllNews&#39;,0,&#39;90Day&#39;,0,&#39;90DayTS&#39;<wbr>,null,&#39;Monthly&#39;,1,&#39;Christmas&#39;,<wbr>0,&#39;Unsubscribe&#39;,0)
+  ELSEIF @options == 4 THEN
+    UpsertData(&#39;Preferences&#39;,1,&#39;<wbr>SubscriberKey&#39;,@SubscriberKey,<wbr>&#39;EmailAddress&#39;,@EmailAddress,&#39;<wbr>AllNews&#39;,0,&#39;90Day&#39;,0,&#39;90DayTS&#39;<wbr>,null,&#39;Monthly&#39;,0,&#39;Christmas&#39;,<wbr>1,&#39;Unsubscribe&#39;,0)
+  ELSEIF @options == 5 THEN
+    UpsertData(&#39;Preferences&#39;,1,&#39;<wbr>SubscriberKey&#39;,@SubscriberKey,<wbr>&#39;EmailAddress&#39;,@EmailAddress,&#39;<wbr>AllNews&#39;,0,&#39;90Day&#39;,0,&#39;90DayTS&#39;<wbr>,null,&#39;Monthly&#39;,0,&#39;Christmas&#39;,<wbr>0,&#39;Unsubscribe&#39;,1)
+  ENDIF
+
+  IF @options == 5 THEN
+    SET @lue = CreateObject(&quot;ExecuteRequest&quot;)
+    SetObjectProperty(@lue,&quot;Name&quot;,<wbr>&quot;LogUnsubEvent&quot;)
+
+    SET @lue_prop = CreateObject(&quot;APIProperty&quot;)                 
+    SetObjectProperty(@lue_prop, &quot;Name&quot;, &quot;SubscriberKey&quot;)
+    SetObjectProperty(@lue_prop, &quot;Value&quot;, @SubscriberKey)
+    AddObjectArrayItem(@lue, &quot;Parameters&quot;, @lue_prop)
+
+    SET @lue_prop = CreateObject(&quot;APIProperty&quot;)
+    SetObjectProperty(@lue_prop, &quot;Name&quot;, &quot;JobID&quot;)
+    SetObjectProperty(@lue_prop, &quot;Value&quot;, @JobID)
+    AddObjectArrayItem(@lue, &quot;Parameters&quot;, @lue_prop)
+
+    SET @lue_prop = CreateObject(&quot;APIProperty&quot;)
+    SetObjectProperty(@lue_prop, &quot;Name&quot;, &quot;Reason&quot;)
+    SetObjectProperty(@lue_prop, &quot;Value&quot;, &quot;Unsubscribed from Custom Preference Center&quot;)
+    AddObjectArrayItem(@lue, &quot;Parameters&quot;, @lue_prop)
+
+    SET @resp = InvokeExecute(@lue, @overallStatus, @requestId)
+
+    SET @Response = Row(@resp, 1)
+    SET @Status = Field(@Response,&quot;<wbr>StatusMessage&quot;)
+    SET @Error = Field(@Response,&quot;ErrorCode&quot;)
+  ELSE
+    SET @Subscriber = CreateObject(&quot;Subscriber&quot;)
+    SetObjectProperty(@Subscriber, &quot;SubscriberKey&quot;,@<wbr>SubscriberKey)
+    SetObjectProperty(@Subscriber, &quot;EmailAddress&quot;,@EmailAddress)
+    SetObjectProperty(@Subscriber, &quot;Status&quot;, &quot;Active&quot;)
+    SET @resp = InvokeUpdate(@Subscriber, @createErrDesc, @createErrNo, @createOpts)
+  ENDIF  
+ENDIF
+]%%
+
+
+The extra ampscript in there is standard to log the unsubscribe event, and the script at the bottom only runs if unsubscribe (option 5) is chosen and changes the status.
+
+</body></html>
