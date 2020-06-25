@@ -1,0 +1,37 @@
+.hide-for-large {
+	display: none !important;
+	mso-hide: all;
+	overflow: hidden;
+	max-height: 0;
+	font-size: 0;
+	width: 0;
+	line-height: 0;
+}
+@media only screen and (max-width: 596px) {
+	.hide-for-large {
+		display: block !important;
+		width: auto !important;
+		overflow: visible !important;
+		max-height: none !important;
+		font-size: inherit !important;
+		line-height: inherit !important;
+	}
+}
+table.body table.container .hide-for-large * {
+	mso-hide: all;
+}
+@media only screen and (max-width: 596px) {
+	table.body table.container .hide-for-large,
+	table.body table.container .row.hide-for-large {
+		display: table !important;
+		width: 100% !important;
+	}
+}
+@media only screen and (max-width: 596px) {
+	table.body table.container .show-for-large {
+		display: none !important;
+		width: 0;
+		mso-hide: all;
+		overflow: hidden;
+	}
+}
