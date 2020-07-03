@@ -1,6 +1,4 @@
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en" xml:lang="en" style="width: 100%;">
  <!-- Default Header/CSS -->
 <head></head>
@@ -180,26 +178,17 @@ div.preheader
   
 <!-- Preview Hack (DO NOT REMOVE) -->  
 
-    
 <div style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all; font-family: sans-serif;"
  aria-hidden="true">&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;
 &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
     </div>
 
-    
 <div style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all; font-family: sans-serif;"
  aria-hidden="true">&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;
 &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
     </div>
 
- 
-  
 <!-- AMPscript (DO NOT REMOVE) -->
-
-
-
-
- 
 
 <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;">
 <tr>
@@ -217,7 +206,6 @@ div.preheader
 </tr>
 </table>
   
-
 <!-- CONTENT--> 
   
 <!-- /// HERO - HEADLINE TOP START -->
@@ -238,23 +226,6 @@ div.preheader
       </tr></table></td></tr>
 </table>
 <!--  HERO - HEADLINE TOP END /// -->
-
-
-
-
-  
-
-
-
-  
-
-
-
-
-
-
-  
-
 
 <!-- /// HERO - HEADLINE TOP START -->
 <table role="presentation" class="w100" width="711" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -324,17 +295,6 @@ div.preheader
 </table>
 <!--  HERO - HEADLINE TOP END /// -->
  
-
-  
-
-
-
-
-
-
-  
-
-
 <!-- /// HERO - HEADLINE TOP START -->
 <table role="presentation" class="w100" width="711" border="0" align="center" cellpadding="0" cellspacing="0">
 <!-- /// ARTICLES START -->
@@ -402,20 +362,7 @@ div.preheader
 <!-- ARTICLES END /// -->
 </table>
 <!--  HERO - HEADLINE TOP END /// -->
- 
 
-  
-
-
-
-
-
-
-  
-
-
-
-  
 <!-- /// HERO - HEADLINE TOP START -->
 <table role="presentation" class="w100" width="711" border="0" align="center" cellpadding="0" cellspacing="0">
 <!-- /// HERO - THUMBNAIL RIGHT START -->
@@ -539,12 +486,7 @@ div.preheader
          <table class="w100m" width="95%" border="0" align="left" cellpadding="0" cellspacing="0" role="presentation">
     <tr>
       <td class="nunito tcenterm" style="text-align: left; color: #4a4a4a; font-size: 12px; font-family: Arial, sans-serif;">&copy;2020 RentPath, LLC &nbsp;|&nbsp; All content is the property of RentPath,&nbsp;LLC. &nbsp;|&nbsp; All&nbsp;Rights&nbsp;Reserved <span class="expandm padt10m">RentPath,&nbsp;LLC. 950&nbsp;East&nbsp;Paces&nbsp;Ferry&nbsp;Road&nbsp;NE, Suite&nbsp;2600, Atlanta,&nbsp;GA&nbsp;30326</span></td>
-    </tr>
-
-
-
-
-  
+    </tr>  
 </table>
         </td>
     </tr>
