@@ -1,0 +1,579 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en" xml:lang="en" style="width: 100%;">
+ <!-- Default Header/CSS -->
+<head></head>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!--[if !mso><!-- -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!--<![endif-->
+<meta content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;" name="viewport">
+<meta name="viewport" content="width=device-width">
+<meta name="robots" content="noindex,nofollow">
+<meta name="x-apple-disable-message-reformatting">
+
+<!--[if !mso]><!-- -->
+<link href="https://fonts.googleapis.com/css?family=Barlow:400,400i,700,700i|Barlow+Semi+Condensed:wght@400;500;700|Nunito+Sans:400,400i,700,700i&display=swap" rel="stylesheet">
+<!--<![endif]-->
+  
+<title></title>
+<style type="text/css">
+.fontaccentcolor, .aptrating { color: #ff132f; }
+.fontheadline { color: #000000; }
+.allcaps { text-transform: uppercase; }
+.banner { background-color: #316b91; }
+.button { background-color: #ff132f; }
+.buttonblue { background-color: #e2e5e7; }
+.buttonradius { -webkit-border-radius: 6px; -moz-border-radius: 6px; border-radius: 6px;  }
+.buttonhover:hover { background-color: #e12233 !important; }
+.contactpropertycolor { color: #ff132f; }
+.contactpropertybutton { border: 1px solid #ff132f;  }
+.contactpropertybutton:hover { background-color: #ff132f;  }
+.contactpropertybutton:hover a span { color: white; }
+.contactpropertycheckborder { border: 2px solid #ff132f; }
+.contactpropertybutton:hover .contactpropertycheckborder { border: 2px solid white; }
+.banner { background-color: #316b91; }
+.buttonbanner { background-color: #FFFFFF; }
+.buttonbannerhover:hover { background-color: #f1f2f2; }
+.buttonfontbanner { color: #316b91; }
+.rating > span:hover { color: #ff132f !important; }
+.rating { unicode-bidi: bidi-override; direction: rtl; }
+.rating > span:hover:before, .rating > span:hover ~ span:before { content: "\2605" !important; position: absolute !important; color: #ff132f !important; cursor: pointer; }
+
+@media all {
+.font { font-family: 'Barlow', Arial, sans-serif !important; }
+}
+.ExternalClass { width:100%; }
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div { line-height: 100%; }
+table td { border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+h1, h2, h3, h4, h5, h6 { font-size: inherit; padding: 0; margin: 0; color: black; line-height: 100%; }
+.applelinks a { text-decoration: none; color: inherit !important; }
+a { color: #c6c6c6; text-decoration: none; }
+a, a:link, a:visited { color: inherit; text-decoration: none; }
+span.MsoHyperlink { mso-style-priority: 99; color: inherit; }
+span.MsoHyperlinkFollowed { mso-style-priority: 99; color: inherit; }
+img { border: 0px !important; }
+body {
+ font-family: Segoe UI, Arial, sans-serif;
+ font-size: 14px;
+ -webkit-text-size-adjust: none;
+ -ms-text-size-adjust: none;
+ -webkit-font-smoothing: antialiased;
+ margin: 0;
+ padding: 0;
+ width: 100% !important;
+}
+.opacity:hover { opacity: 0.8 !important; }
+.buttonrent:hover { background-color: #0133bd !important; }
+.buttonrentals:hover { background-color: #26b5bf !important; }
+.buttonapartmentguide:hover { background-color: #e12233 !important; }
+.buttonpartner:hover { background-color: #3b3b3b !important; }
+.rating > span:hover { color: #ff132f !important; }
+.rating { unicode-bidi: bidi-override; direction: rtl; }
+.rating > span:hover:before, .rating > span:hover ~ span:before { content: "\2605" !important; position: absolute !important; color: #ff132f !important; cursor: pointer; }
+.w50dw90m { width: 57% !important;}
+@media all {
+.nunito { font-family: 'Nunito Sans', Arial, sans-serif !important; }
+.ubuntu { font-family: 'Ubuntu', Arial, sans-serif !important; }
+.barlow { font-family: 'Barlow', Arial, sans-serif !important; }
+.sbarlow { font-family: 'Barlow Semi Condensed', Arial, sans-serif !important; }
+}
+@media only screen and (max-width: 480px) {
+.w100m, .column50, .column33, .column25, .column75, .column66 { width: 100% !important; }
+.w90m { width: 90% !important;}
+.w80m { width: 90% !important;}
+.w50dw90m { width: 90% !important;}
+.expandm { width: 100% !important; display: block !important; }
+.resizem { width: 100% !important; height: auto !important; }
+.hidem { display: none !important; }
+.h1m { font-size: 26px !important;}
+.h22m { font-size: 22px !important;}
+.h2m { font-size: 15px !important;}
+.h21m { font-size: 17px !important;}
+.h3m { font-size: 13px !important;}
+.h4 { font-size: 18px !important;} 
+.tcenterm { text-align: center !important; }
+.tleftm { text-align: left !important; }
+.trightm { text-align: right !important; }
+.height0m { height: 0 !important; }
+.showm { display: block !important; max-height: 1000px !important; width: 100% !important; overflow: visible !important; align: center !important; }
+.logo { width: 150px !important; height: auto !important; }
+.starrating { font-size: 35px !important;}
+.pad0m { padding: 0px !important; }
+.padt0m { padding-top: 0px !important; }
+.padt5m { padding-top: 5px !important; }
+.padt10m { padding-top: 10px !important; }
+.padt20m { padding-top: 20px !important; }
+.padt30m { padding-top: 30px !important; }
+.padb0m { padding-bottom: 0px !important;}
+.padb5m { padding-bottom: 5px !important;}
+.padb10m { padding-bottom: 10px !important;}
+.padb20m { padding-bottom: 20px !important;}
+.padb30m { padding-bottom: 30px !important;}
+}
+@media only screen and (max-width: 711px) {
+.w100w { width: 100% !important; }
+.ow100 { width: 100% !important; }
+.w100 { width: 100% !important; }
+.w90 { width: 90% !important; }
+.w80 { width: 80% !important; }
+.w50dw90m { width: 90% !important;}
+.hide { display: none !important; }
+.resize { width: 100% !important; height: auto !important; }
+.resize img { max-width: 100% !important; height: auto !important; }
+.resize a { width: auto !important; height: auto !important; }
+.expand { width: 100% !important; display: block !important; }
+.height0 { height: 0 !important; }
+.column50 { width: 50%; }
+.column50a { width: 50%; }
+.column33 { width: 33.33%; }
+.column25 { width: 25%; }
+.column75 { width: 75%; }
+.column66 { width: 66%; }
+.tcenter { text-align: center !important; }
+.show { display: block !important; max-height: 1000px !important; width: 100% !important; overflow: visible !important; align: center !important; }
+.border0 { border: 0px !important; }
+.pad0 { padding: 0px !important; }
+.padt0 { padding-top: 0px !important; }
+.padt5 { padding-top: 5px !important; }
+.padt10 { padding-top: 10px !important; }
+.padt20 { padding-top: 20px !important; }
+.padt30 { padding-top: 30px !important; }
+.padb0 { padding-bottom: 0px !important; }
+.padb5 { padding-bottom: 5px !important; }
+.padb10 { padding-bottom: 10px !important; }
+.padb20 { padding-bottom: 20px !important; }
+.padb30 { padding-bottom: 30px !important; }
+}
+</style>
+<!--[if mso>
+<style type="text/css">
+body {
+ margin: 0 !important;
+  padding: 0 !important;
+  font-family: Segoe UI, Arial, sans-serif;
+}
+
+table, td, div, p {
+ font-family: Segoe UI, Arial, sans-serif;
+  line-height: normal;
+}
+</style>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif-->
+</head>
+  
+<body class="tli" style="-webkit-text-size-adjust: none;-ms-text-size-adjust: none; padding: 0; margin: 0; background-color: #ffffff;"><style type="text/css">
+div.preheader 
+{ display: none !important; } 
+</style>
+<div class="preheader" style="font-size: 1px; display: none !important;">Expanded Video and 3D Tours to keep you safe as you search.</div>
+<img src="http://click.message.rentpath.com/open.aspx?ffcb10-fe9615747163017c76-fdfb1571776c017973117374-fe91127477670d7e76-ff61107776-fe251579776d0d78761573-ffce15" width="1" height="1">
+  
+<!-- Preview Hack (DO NOT REMOVE) -->  
+
+    
+<div style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all; font-family: sans-serif;"
+ aria-hidden="true">&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+    </div>
+
+    
+<div style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all; font-family: sans-serif;"
+ aria-hidden="true">&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+    </div>
+
+ 
+  
+<!-- AMPscript (DO NOT REMOVE) -->
+
+
+
+
+ 
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;">
+<tr>
+<td align="center" style="background-color: #ffffff;">
+  
+<!-- LOGO --> 
+<img src="http://click.message.rentpath.com/open.aspx?ffcb10-fe9615747163017c76-fdfb1571776c017973117374-fe91127477670d7e76-ff61107776-fe251579776d0d78761573-ffce15" width="1" height="1">
+<table role="presentation" class="w90" width="640" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td class="nunito hidem" style="padding-top: 20px; padding-bottom: 10px; text-align: center; font-size: 12px; line-height: 1.4em; color: #727272; font-family: 'Nunito Sans', Arial, sans-serif; background-color: #ffffff;"></td>
+</tr>
+<tr>
+  <td class="padt10m" align="center" style="border-bottom: 5px solid #ff132f; padding-top: 20px; padding-bottom: 20px; padding-left: 5px; padding-right: 5px; background-color: #ffffff;"><a href="http://click.message.rentpath.com/?qs=4986c6eb2e53cf1c82a9b0e6b05fef28b19f07d49b1787b8253d87e35fb28ac8b44bc665975f6dd8eaaea9024eb018c8df5e5050ae6cfa9b" ><img src="http://image.message.rentpath.com/lib/fe91127477670d7e76/m/1/0edce854-76b7-406a-b0b5-937904851bfe.png" width="230" alt="Apartmentguide" style="display: block; border: 0; color: #000000; font-size: 30px; font-weight: 400; font-family: 'Nunito Sans', Arial, max-width: 100%;"/></a>
+  </td>
+</tr>
+</table>
+  
+
+<!-- CONTENT--> 
+  
+<!-- /// HERO - HEADLINE TOP START -->
+<table role="presentation" class="w100" width="711" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+  <td align="center" style="padding-top: 20px;">
+    <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0"  role="presentation">
+      <tr>
+        <!-- HEADLINE START -->
+        <td class="h22m allcaps sbarlow" style="text-align: center; color: #000000; font-family: 'Barlow Semi Condensed', 'Barlow', Arial, sans-serif; line-height: 1.5em; font-weight: 700; padding-bottom: 5px; padding-top: 5px;"><span class="h22m allcaps sbarlow" style="text-align: center; color: #000000; font-size: 30px; font-family: 'Barlow Semi Condensed', 'Barlow', Arial, sans-serif; line-height: 1.4em; font-weight: 700;">A BETTER WAY TO TOUR APARTMENTS FROM HOME</span></td></tr>
+        <!-- COPY START -->
+       <tr>
+          <td class="font h21m padt5m" style="padding: 10px; text-align: center; font-size: 19px; line-height: 1.5em; color: #727272; font-family: 'Nunito Sans', Arial, sans-serif; font-weight: 400; padding-top: 10px; padding-bottom: 15px;">
+           <span class="font h21m padt5m" style="text-align: center; font-size: 19px; line-height: 1.5em; color: #727272; font-family: 'Nunito Sans', Arial, sans-serif; font-weight: 400;">We’re introducing new ways to explore apartment communities while remaining safe during the coronavirus pandemic. It’s like visiting in-person &ndash; from anywhere!</span>
+          <!-- COPY END -->   
+        </td>
+        <!-- HEADLINE END -->
+      </tr></table></td></tr>
+</table>
+<!--  HERO - HEADLINE TOP END /// -->
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+  
+
+
+<!-- /// HERO - HEADLINE TOP START -->
+<table role="presentation" class="w100" width="711" border="0" align="center" cellpadding="0" cellspacing="0">
+<!-- /// ARTICLES START -->
+<tr>
+  <td class="padt10m" align="center" style="padding-top: 5px;">
+    <table class="padt5m" width="90%" border="0" align="center" cellpadding="0" cellspacing="0" role="presentation">
+      <!-- / INDIVIDUAL ROW START / -->
+      <tr>
+        <td style="padding-top: 0px;">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td class="radius" align="center" style="overflow: hidden;">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td valign="top">
+                      <table class="column50" width="319" border="0" align="left" cellpadding="0" cellspacing="0" role="presentation">
+                        <tr>
+                          <!-- min319X197 IMAGE START -->
+                          <td align="center" class="allcaps" style="overflow: hidden; border: 0px;">
+                            <a href="http://click.message.rentpath.com/?qs=4986c6eb2e53cf1c811273b28a6bd7cb944874ab5636cc9d657b04e77eaedffcfc23102efa3aac9d1ff9671adb560b7c9da8aaff915417a1"><img src="http://image.message.rentpath.com/lib/fe91127477670d7e76/m/1/ef6ab419-8f03-42f1-ad24-03366d979e6c.png" width="319" alt="TOUR FROM HOME" style="display: block; max-width: 100%; max-height: 100%" class="resize opacity"/></a></td>
+                          <!-- IMAGE END -->
+                        </tr>
+                      </table>
+
+                      <!--[if mso]></td><td valign="top"><![endif]-->
+
+                      <table class="column50" width="319" border="0" align="left" cellpadding="0" cellspacing="0" role="presentation">
+                        <tr>
+                          <td class="padb20m" align="center" style="padding-top: 20px; padding-bottom: 10px;">
+                            <table class="w90m" width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+                              <tr>
+                                <!-- HEADLINE START -->
+                                <td class="sbarlow h22m allcaps" style="text-align: left; color: #4e4e4e; font-size: 19px; font-family: 'Barlow Semi Condensed', 'Barlow', Arial, sans-serif; line-height: 1.3em;"><a href="http://click.message.rentpath.com/?qs=4986c6eb2e53cf1c811273b28a6bd7cb944874ab5636cc9d657b04e77eaedffcfc23102efa3aac9d1ff9671adb560b7c9da8aaff915417a1" style="color: #000000; text-decoration: none; font-weight: 700;"><span class="fontheadline">TOUR FROM HOME</span></a></td>
+                                <!-- HEADLINE END -->
+                              </tr>
+                              <tr>
+                                <!-- COPY START -->
+                                <td class="font h2m padb10m" style="padding-top: 15px; text-align: left; font-size: 15px; line-height: 1.5em; color: #727272; font-family: 'Nunito Sans', Arial, sans-serif;">New 3D virtual tours and detailed video tours are being added to Apartment Guide every day. You’ll be able view more apartment communities than ever before from the safety of your own home.</td>
+                                <!-- COPY END -->
+                              </tr>
+                              <tr>
+                              <!-- COPY START -->
+                              <td style="padding-bottom: 10px;">
+                              </td>
+                              <!--BUTTON INSERT REMOVED-->
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <!-- / INDIVIDUAL ROW END / -->
+
+    </table>
+  </td>
+</tr>
+<!-- ARTICLES END /// -->
+</table>
+<!--  HERO - HEADLINE TOP END /// -->
+ 
+
+  
+
+
+
+
+
+
+  
+
+
+<!-- /// HERO - HEADLINE TOP START -->
+<table role="presentation" class="w100" width="711" border="0" align="center" cellpadding="0" cellspacing="0">
+<!-- /// ARTICLES START -->
+<tr>
+  <td class="padt10m" align="center" style="padding-top: 5px;">
+    <table class="padt5m" width="90%" border="0" align="center" cellpadding="0" cellspacing="0" role="presentation">
+      <!-- / INDIVIDUAL ROW START / -->
+      <tr>
+        <td style="padding-top: 0px;">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td class="radius" align="center" style="overflow: hidden;">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td valign="top">
+                      <table class="column50" width="319" border="0" align="left" cellpadding="0" cellspacing="0" role="presentation">
+                        <tr>
+                          <!-- min319X197 IMAGE START -->
+                          <td align="center" class="allcaps" style="overflow: hidden; border: 0px;">
+                            <a href="http://click.message.rentpath.com/?qs=4986c6eb2e53cf1c811273b28a6bd7cb944874ab5636cc9d657b04e77eaedffcfc23102efa3aac9d1ff9671adb560b7c9da8aaff915417a1"><img src="http://image.message.rentpath.com/lib/fe91127477670d7e76/m/1/691ad7f1-681d-46aa-95ab-8b34ffd856c2.png" width="319" alt="LIVE VIDEO TOURS" style="display: block; max-width: 100%; max-height: 100%" class="resize opacity"/></a></td>
+                          <!-- IMAGE END -->
+                        </tr>
+                      </table>
+
+                      <!--[if mso]></td><td valign="top"><![endif]-->
+
+                      <table class="column50" width="319" border="0" align="left" cellpadding="0" cellspacing="0" role="presentation">
+                        <tr>
+                          <td class="padb20m" align="center" style="padding-top: 20px; padding-bottom: 10px;">
+                            <table class="w90m" width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+                              <tr>
+                                <!-- HEADLINE START -->
+                                <td class="sbarlow h22m allcaps" style="text-align: left; color: #4e4e4e; font-size: 19px; font-family: 'Barlow Semi Condensed', 'Barlow', Arial, sans-serif; line-height: 1.3em;"><a href="http://click.message.rentpath.com/?qs=4986c6eb2e53cf1c811273b28a6bd7cb944874ab5636cc9d657b04e77eaedffcfc23102efa3aac9d1ff9671adb560b7c9da8aaff915417a1" style="color: #000000; text-decoration: none; font-weight: 700;"><span class="fontheadline">LIVE VIDEO TOURS</span></a></td>
+                                <!-- HEADLINE END -->
+                              </tr>
+                              <tr>
+                                <!-- COPY START -->
+                                <td class="font h2m padb10m" style="padding-top: 15px; text-align: left; font-size: 15px; line-height: 1.5em; color: #727272; font-family: 'Nunito Sans', Arial, sans-serif;">You can now request to take a live video tour with a leasing agent. Just like an in-person tour, you can ask questions and get a glimpse of life in the community.</td>
+                                <!-- COPY END -->
+                              </tr>
+                              <tr>
+                              <!-- COPY START -->
+                              <td style="padding-bottom: 10px;">
+                              </td>
+                              <!--BUTTON INSERT REMOVED-->
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <!-- / INDIVIDUAL ROW END / -->
+
+    </table>
+  </td>
+</tr>
+<!-- ARTICLES END /// -->
+</table>
+<!--  HERO - HEADLINE TOP END /// -->
+ 
+
+  
+
+
+
+
+
+
+  
+
+
+
+  
+<!-- /// HERO - HEADLINE TOP START -->
+<table role="presentation" class="w100" width="711" border="0" align="center" cellpadding="0" cellspacing="0">
+<!-- /// HERO - THUMBNAIL RIGHT START -->
+<tr>
+  <td align="center" style="padding-top: 10px;">
+    <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" role="presentation">
+      <tr>
+        <td align="center">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+            <tr>
+              <td>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              
+            <tr>
+              <td align="center" style="padding-top: 5px; padding-bottom: 5px;">
+                <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <tr>
+
+                    <!-- HEADLINE START -->
+                    <td class="sbarlow h21m allcaps" style="padding-top: 10px; text-align: center; color: #4e4e4e; font-size: 19px; font-family: 'Barlow Semi Condensed', 'Barlow', Arial, sans-serif; line-height: 1.5em; font-weight: 700;"><a href="http://click.message.rentpath.com/?qs=4986c6eb2e53cf1c82a9b0e6b05fef28b19f07d49b1787b8253d87e35fb28ac8b44bc665975f6dd8eaaea9024eb018c8df5e5050ae6cfa9b" style="color: #000000; text-decoration: none; font-weight: 700; font-size: 19px;">Stay safe at home and tour apartments with Apartment Guide</a></td>
+                    <!-- HEADLINE END -->
+
+                  </tr>
+
+                  <!-- / BUTTON START / -->
+                  <tr>
+                    <td class="padt20m" align="center" style="padding-top: 20px; padding-bottom: 20px;">
+                      <table class="w100m" border="0" align="center" cellpadding="0" cellspacing="0" role="presentation">
+                        <tr>
+                          <td class="button buttonradius" style="overflow: hidden;">
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+                              <tr>
+
+                                <!-- COPY START -->
+                                <td class="font h22m buttonhover height0 pad0m" align="center" height="45" style="padding-left: 35px; padding-right: 35px; font-size: 19px; color: #FFFFFF; font-family: Arial, sans-serif; text-align: center; font-weight: bold;"><a href="http://click.message.rentpath.com/?qs=4986c6eb2e53cf1c82a9b0e6b05fef28b19f07d49b1787b8253d87e35fb28ac8b44bc665975f6dd8eaaea9024eb018c8df5e5050ae6cfa9b" style="text-decoration: none;"><span style="display: block; width: 100%; padding-top: 10px; padding-bottom: 10px; color: #FFFFFF;">Let's Get Started</span></a></td>
+                                <!-- COPY END -->
+
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                  <!-- / BUTTON END / -->
+
+
+
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<!-- HERO - THUMBNAIL RIGHT END /// -->
+</table>
+<!--  HERO - HEADLINE TOP END /// -->
+
+
+
+
+  <!-- FOOTER--> 
+ <table class="w100" width="711" border="0" align="center" cellpadding="0" cellspacing="0" role="presentation">
+    <tr>
+   <td class="padt20m" align="center" style="padding-top: 5px; background-color: #ffffff;">
+  <table class="w100m" width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" style="background-color: #f1f1f1; padding-top: 30px; padding-bottom: 20px;">
+         <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" role="presentation">
+ <tr>
+      <td align="center"><a href="http://click.message.rentpath.com/?qs=4986c6eb2e53cf1c82a9b0e6b05fef28b19f07d49b1787b8253d87e35fb28ac8b44bc665975f6dd8eaaea9024eb018c8df5e5050ae6cfa9b"><img src="http://image.message.rentpath.com/lib/fe91127477670d7e76/m/1/0edce854-76b7-406a-b0b5-937904851bfe.png" width="230" alt="Apartmentguide" style="display: block; border: 0; color: #091540; font-size: 30px; font-weight: bold; font-family: sans-serif; max-width: 100%;"/></a></td>
+        </tr>
+ <tr>
+<td align="center" style="padding-top: 25px;">
+  <table border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td class="nunito" style="padding-right: 10px; text-align: center; color: #091540; font-size: 13px; font-family: Arial, sans-serif; font-weight: bold;"><a class="opacity" href="http://click.message.rentpath.com/?qs=4986c6eb2e53cf1c013151d6798eae10f47bd8484009523a17b949c54983768a2de0f71a13de90f52cd324f92f21633b8b2c30585d7b3115" ><span style="color: #091540; text-decoration: underline;">Manage&nbsp;Preferences</span></a></td>
+  <td align="center" style="padding-left: 10px;">
+  <table class="opacity" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td style="padding-right: 5px; line-height: 0px;"><a href="http://click.message.rentpath.com/?qs=4986c6eb2e53cf1c25c5c12804211d109f4819886207b3c12717b688e3c26e6c191de3a485c9724ac292ba1df136b33c1dbe257c6f74c7fe"><img src="http://image.message.rentpath.com/lib/fe91127477670d7e76/m/1/4ec23982-a6b2-4c3a-b2f7-794779c452b4.png" width="15" alt="Heart Emoji" style="display: block; border: 0px;"/></a></td>
+      <td class="nunito" style="text-align: center; color: #091540; font-size: 13px; font-family: Arial, sans-serif; font-weight: bold;"><a href="http://click.message.rentpath.com/?qs=4986c6eb2e53cf1c25c5c12804211d109f4819886207b3c12717b688e3c26e6c191de3a485c9724ac292ba1df136b33c1dbe257c6f74c7fe"><span style="color: #091540; text-decoration: underline;">My&nbsp;Favorites</span></a></td>
+    </tr>
+</table>
+  </td>
+    </tr>
+</table>
+  </td>
+    </tr>
+ <tr>
+      <td class="nunito" style="padding-top: 5px; text-align: center; color: #091540; font-size: 13px;  font-family: Arial, sans-serif; line-height: 1.4em;"><a class="opacity" href="http://click.message.rentpath.com/?qs=4986c6eb2e53cf1cc8956f0511e89b39ce4bdea2e244cc0bb08470f377c1539b2c74457c29f414c2f86cef4e7f9863d73ba31e4afe1acd27"  ><span style="color: #091540; text-decoration: underline; font-size: 13px; font-weight: normal;">Privacy Policy</span></a> &nbsp;&nbsp;<a class="opacity" href="http://click.message.rentpath.com/?qs=4986c6eb2e53cf1c66cc30edf9a77014bf5d749f4f2fbec592d503df81ab420f8c13aa9b0c7d833d2cfc0536790629423e222226e633cf4b" ><span style="color: #091540; text-decoration: underline; font-weight: normal;">Unsubscribe</span></a> &nbsp;&nbsp;
+   </td>
+     </tr>
+ <tr>
+      <td align="center" style="padding-top: 30px;">
+         <table border="0" align="center" cellpadding="0" cellspacing="0" role="presentation">
+     <tr>
+      <td align="center" valign="top" style="padding-left: 5px; padding-right: 5px;"><a href="http://click.message.rentpath.com/?qs=4986c6eb2e53cf1c1585618989f3d46b7fb42dc4b35056aa17d618e71c6c7db9a57a797bbb3a4d36889c4d3a2faa7f80eac31c710dd34d3e"><img src="http://image.message.rentpath.com/lib/fe91127477670d7e76/m/1/65ed90bd-e2fe-4d9a-bb6d-42664cc0ec70.png" width="35" alt="Facebook" style="display: block; border: 0; max-width: 100%;" class="opacity"/></a></td>
+      <td align="center" valign="top" style="padding-left: 5px; padding-right: 5px;"><a href="http://click.message.rentpath.com/?qs=4986c6eb2e53cf1cf60ad15e11b383ab7cb4437c578f3df34b2f7abcf522ae400f1a447d4cb3a2fd76757306a6ea0c21ad914efe94982289"><img src="http://image.message.rentpath.com/lib/fe91127477670d7e76/m/1/00b863a0-d88f-458b-a9a4-3c48b4ee6f70.png" width="35" alt="Twitter" style="display: block; border: 0; max-width: 100%;" class="opacity"/></a></td>
+      <td align="center" valign="top" style="padding-left: 5px; padding-right: 5px;"><a href="http://click.message.rentpath.com/?qs=4986c6eb2e53cf1c38446fb080d329e231d2d60f494f2f8013a19954ababe6ac17ddb7b4474a65ae24704c7543615f595e380aeeb5fa8878"><img src="http://image.message.rentpath.com/lib/fe91127477670d7e76/m/1/b0ccc01e-13ad-47d1-80d1-c2c0ef4b042b.png" width="35" alt="Pintrest" style="display: block; border: 0; max-width: 100%;" class="opacity"/></a></td>
+      <td align="center" valign="top" style="padding-left: 5px; padding-right: 5px;"><a href="http://click.message.rentpath.com/?qs=4986c6eb2e53cf1c6d230f8f5578be671f295b63a88f9b5c522be3bb2d6d9d3d91fc475f2f552d429075199b7c80c4f10578a779ed028a83"><img src="http://image.message.rentpath.com/lib/fe91127477670d7e76/m/1/76329006-91fc-46f3-acbd-229e56474ff2.png" width="35" alt="Youtube" style="display: block; border: 0; max-width: 100%;" class="opacity"/></a></td>
+      <td align="center" valign="top" style="padding-left: 5px; padding-right: 5px;"><a href="http://click.message.rentpath.com/?qs=4986c6eb2e53cf1c835cd742d649709ab0de84dc74a11f192d292fd990434a130df7caf8f38202fe06329fd3ceacb02edec72ed94cd1cb77"><img src="http://image.message.rentpath.com/lib/fe91127477670d7e76/m/1/2d18f304-0a14-4653-9fb8-c61879c4608c.png" width="35" alt="Instagram" style="display: block; border: 0; max-width: 100%;" class="opacity"/></a></td>
+      </tr>
+</table>
+        </td>
+    </tr>
+ <tr>
+  <td align="center" style="padding-top: 30px;">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+       <td align="center" style="border-top: 2px solid white;">
+        <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" role="presentation">
+    <tr>
+     <td valign="top">
+            <table class="column66" width="517" border="0" align="left" cellpadding="0" cellspacing="0" role="presentation">
+    <tr>
+     <td class="padt20m" style="padding-top: 25px;">
+         <table class="w100m" width="95%" border="0" align="left" cellpadding="0" cellspacing="0" role="presentation">
+    <tr>
+      <td class="nunito tcenterm" style="text-align: left; color: #4a4a4a; font-size: 12px; font-family: Arial, sans-serif;">&copy;2020 RentPath, LLC &nbsp;|&nbsp; All content is the property of RentPath,&nbsp;LLC. &nbsp;|&nbsp; All&nbsp;Rights&nbsp;Reserved <span class="expandm padt10m">RentPath,&nbsp;LLC. 950&nbsp;East&nbsp;Paces&nbsp;Ferry&nbsp;Road&nbsp;NE, Suite&nbsp;2600, Atlanta,&nbsp;GA&nbsp;30326</span></td>
+    </tr>
+
+
+
+
+  
+</table>
+        </td>
+    </tr>
+</table>
+<!--[if mso]></td><td valign="top"><![endif]-->
+
+  <table class="column33" width="57" border="0" align="left" cellpadding="0" cellspacing="0" role="presentation">
+    <tr>
+      <td align="center" style="padding-top: 15px;"><a href="http://click.message.rentpath.com/?qs=4986c6eb2e53cf1c2de0dbd8106f4b509ceb105e1c973fe571db39c35b4f60a206f510455b8d030acd57c132e706842bf796ee0dad4aae3e" target="_blank"><img src="http://image.message.rentpath.com/lib/fe91127477670d7e76/m/1/faa106b8-7a24-46c7-baa7-553c56be651d.png" width="55" alt="Equal Housing Opportunity" style="display: block; border: 0px;"/></a></td>
+    </tr>
+</table>
+        </td>
+    </tr>
+</table>
+       </td>
+    </tr>
+</table>
+  </td>
+    </tr>
+</table>
+        </td>
+    </tr>
+</table>
+     </td>
+    </tr>
+</table> 
+   
+</td>
+</tr>
+</table>
+</body>
+</html>
