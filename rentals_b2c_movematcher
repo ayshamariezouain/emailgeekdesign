@@ -1,0 +1,530 @@
+Find the best moving rates in %%=ProperCase(City)=%% for FREE
+
+
+%%=ContentBlockbyId("37901")=%%
+%%=ContentBlockbyKey("rentals_unsub_url")=%%
+
+%%[ SET @utmCampaign = CONCAT(FORMAT(NOW(), "MMddyyyy"),'_24adstore') ]%%
+       
+
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head></head>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> <!-- utf-8 works for most cases -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" /> <!-- Use the latest (edge) version of IE rendering engine -->
+        <!--[if !mso><!-- -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <!--<![endif-->
+        <meta content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;" name="viewport">
+        <meta name="viewport" content="width=device-width"> <!-- Forcing initial-scale shouldn't be necessary -->
+        <meta name="norobots" content="noindex, nofollow">
+        <meta name="x-apple-disable-message-reformatting"> <!-- Disable auto-scale in iOS 10 Mail entirely -->
+        <title></title> <!-- The title tag shows in email notifications, like Android 4.4. -->
+        <!-- Web Font / @font-face : BEGIN -->
+        <!-- NOTE: If web fonts are not required, lines 10 - 27 can be safely removed. -->
+        <!-- Desktop Outlook chokes on web font references and defaults to Times New Roman, so we force a safe fallback font. -->
+        <!--[if mso]>
+        <style>
+        * {
+        font-family: sans-serif !important;
+        }
+        </style>
+        <![endif]-->
+        <!-- All other clients get the webfont reference; some will render the font and others will silently fail to the fallbacks. More on that here: http://stylecampaign.com/blog/2015/02/webfont-support-in-email/ -->
+       <style>
+       <!--[if !mso]><!-->
+  /* vietnamese */
+  @font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Nunito Sans Regular'), local('NunitoSans-Regular'),   url(https://fonts.gstatic.com/s/nunitosans/v5/pe0qMImSLYBIv1o4X1M8cceyI9tAcVwob5A.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+  /* latin-ext */
+  @font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Nunito Sans Regular'), local('NunitoSans-Regular'), url(https://fonts.gstatic.com/s/nunitosans/v5/pe0qMImSLYBIv1o4X1M8ccezI9tAcVwob5A.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Nunito Sans Regular'), local('NunitoSans-Regular'), url(https://fonts.gstatic.com/s/nunitosans/v5/pe0qMImSLYBIv1o4X1M8cce9I9tAcVwo.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+  /* vietnamese */
+  @font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Nunito Sans SemiBold'), local('NunitoSans-SemiBold'), url(https://fonts.gstatic.com/s/nunitosans/v5/pe03MImSLYBIv1o4X1M8cc9iB85iU1ECVZl_86Y.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+  /* latin-ext */
+  @font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Nunito Sans SemiBold'), local('NunitoSans-SemiBold'), url(https://fonts.gstatic.com/s/nunitosans/v5/pe03MImSLYBIv1o4X1M8cc9iB85jU1ECVZl_86Y.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+  /* latin */
+  @font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Nunito Sans SemiBold'), local('NunitoSans-SemiBold'), url(https://fonts.gstatic.com/s/nunitosans/v5/pe03MImSLYBIv1o4X1M8cc9iB85tU1ECVZl_.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+  /* vietnamese */
+  @font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Nunito Sans Bold'), local('NunitoSans-Bold'), url(https://fonts.gstatic.com/s/nunitosans/v5/pe03MImSLYBIv1o4X1M8cc8GBs5iU1ECVZl_86Y.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+  /* latin-ext */
+  @font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Nunito Sans Bold'), local('NunitoSans-Bold'), url(https://fonts.gstatic.com/s/nunitosans/v5/pe03MImSLYBIv1o4X1M8cc8GBs5jU1ECVZl_86Y.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+  /* latin */
+  @font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Nunito Sans Bold'), local('NunitoSans-Bold'), url(https://fonts.gstatic.com/s/nunitosans/v5/pe03MImSLYBIv1o4X1M8cc8GBs5tU1ECVZl_.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+        <!--<![endif]-->
+        </style>
+        <!-- Web Font / @font-face : END -->
+        <!-- CSS Reset : BEGIN -->
+        <style>
+        /* What it does: Remove spaces around the email design added by some email clients. */
+        /* Beware: It can remove the padding / margin and add a background color to the compose a reply window. */
+        html,
+        body {
+        margin: 0 auto !important;
+        padding: 0 !important;
+        height: 100% !important;
+        width: 100% !important;
+        }
+        /* What it does: Stops email clients resizing small text. */
+        * {
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+        }
+        /* What it does: Centers email on Android 4.4 */
+        div[style*="margin: 16px 0"] {
+        margin: 0 !important;
+        }
+        /* What it does: Stops Outlook from adding extra spacing to tables. */
+        table,
+        td {
+        mso-table-lspace: 0pt !important;
+        mso-table-rspace: 0pt !important;
+        }
+        /* What it does: Fixes webkit padding issue. Fix for Yahoo mail table alignment bug. Applies table-layout to the first 2 tables then removes for anything nested deeper. */
+        table {
+        border-spacing: 0 !important;
+        border-collapse: collapse !important;
+        table-layout: fixed !important;
+        margin: 0 auto !important;
+        }
+        table table table {
+        table-layout: auto;
+        }
+        /* What it does: Uses a better rendering method when resizing images in IE. */
+        img {
+        -ms-interpolation-mode:bicubic;
+        }
+        /* What it does: A work-around for email clients meddling in triggered links. */
+        *[x-apple-data-detectors],  /* iOS */
+        .x-gmail-data-detectors,    /* Gmail */
+        .x-gmail-data-detectors *,
+        .aBn {
+        border-bottom: 0 !important;
+        cursor: default !important;
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+        }
+        /* What it does: Prevents Gmail from displaying a download button on large, non-linked images. */
+        .a6S {
+        display: none !important;
+        opacity: 0.01 !important;
+        }
+        /* If the above doesn't work, add a .g-img class to any image in question. */
+        img.g-img + div {
+        display: none !important;
+        }
+        /* What it does: Prevents underlining the button text in Windows 10 */
+        .button-link {
+        text-decoration: none !important;
+        }
+        /* What it does: Removes right gutter in Gmail iOS app: https://github.com/TedGoas/Cerberus/issues/89  */
+        /* Create one of these media queries for each additional viewport size you'd like to fix */
+        /* iPhone 4, 4S, 5, 5S, 5C, and 5SE */
+        @media only screen and (min-device-width: 320px) and (max-device-width: 374px) {
+        .email-container {
+        min-width: 320px !important;
+        }
+        }
+        /* iPhone 6, 6S, 7, 8, and X */
+        @media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
+        .email-container {
+        min-width: 375px !important;
+        }
+        }
+        /* iPhone 6+, 7+, and 8+ */
+        @media only screen and (min-device-width: 414px) {
+        .email-container {
+        min-width: 414px !important;
+        }
+        }
+        </style>
+        <!-- CSS Reset : END -->
+        <!-- Progressive Enhancements : BEGIN -->
+        <style>
+        /* What it does: Hover styles for buttons */
+        .button-td,
+        .button-a {
+        transition: all 100ms ease-in;
+        }
+        .button-td:hover,
+        .button-a:hover {
+        background: #406fef !important;
+        border-color: #406fef !important;
+        }
+        /* Media Queries */
+        @media screen and (max-width: 480px) {
+        /* What it does: Forces elements to resize to the full width of their container. Useful for resizing images beyond their max-width. */
+        .fluid {
+        width: 100% !important;
+        max-width: 100% !important;
+        height: auto !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        }
+        .fluid-header {
+        text-align: center !important;
+        display: block !important;
+        width: 50% !important;
+        max-width: 100% !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        float: none !important;
+          
+        } 
+        /* What it does: Forces table cells into full-width rows. */
+        .stack-column,
+        .stack-column-center {
+        display: block !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        direction: ltr !important;
+        }
+        /* And center justify these ones. */
+        .stack-column-center {
+        text-align: center !important;
+        }
+        /* What it does: Generic utility class for centering. Useful for images, buttons, and nested tables. */
+        .center-on-narrow {
+        text-align: center !important;
+        display: block !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        float: none !important;
+        }
+        table.center-on-narrow {
+        display: inline-block !important;
+        }
+        /* What it does: Adjust typography on small screens to improve readability */
+        .email-container p {
+        font-size: 17px !important;
+        line-height: 140%;
+        }
+        }
+        </style>
+        <!-- Progressive Enhancements : END -->
+        <!-- What it does: Makes background images in 72ppi Outlook render at correct size. -->
+        <!--[if gte mso 9]>
+        <xml>
+        <o:OfficeDocumentSettings>
+        <o:AllowPNG/>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+        </xml>
+        <![endif]-->
+    </head>
+    <!--
+    The email background color (#ffffff) is defined in three places:
+    1. body tag: for most email clients
+    2. center tag: for Gmail and Inbox mobile apps and web versions of Gmail, GSuite, Inbox, Yahoo, AOL, Libero, Comcast, freenet, Mail.ru, Orange.fr
+    3. mso conditional: For Windows 10 Mail
+    -->
+<body width="100%" bgcolor="#ffffff" style="margin: 0; mso-line-height-rule: exactly;">
+    %%[ ENDIMPRESSIONREGION() ]%%
+  <custom name="opencounter" type="tracking"/>
+  <center style="width: 100%; background: #ffffff; text-align: left;">
+          
+          
+        <!--[if mso | IE]>
+        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#222222">
+            <tr>
+                <td>
+                    <![endif]-->
+                    <!-- Visually Hidden Preheader Text : BEGIN -->
+                    <div style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all; font-family: sans-serif;">&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+                    </div>
+                    <!-- Visually Hidden Preheader Text : END -->
+                    <!-- Create white space after the desired preview text so email clients don’t pull other distracting text into the inbox preview. Extend as necessary. -->
+                   <!-- Preview Text Spacing Hack : BEGIN -->
+                    <div style="display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all; font-family: sans-serif;">&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+                    </div>
+                    <!-- Preview Text Spacing Hack : END -->
+                    <!--Set the email width. Defined in two places:
+                    1. max-width for all clients except Desktop Windows Outlook, allowing the email to squish on narrow but never go wider than 680px.
+                    2. MSO tags for Desktop Windows Outlook enforce a 680px width.
+                    Note: The Fluid and Responsive templates have a different width (600px). The hybrid grid is more "fragile", and I've found that 680px is a good width. Change with caution.-->
+          
+                    <div style="max-width: 680px; margin: auto;" class="email-container">
+                        <!--[if mso]>
+                        <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="680" align="center">
+                            <tr>
+                                <td>
+                                    <![endif]-->
+    
+<!-- Email Header : BEGIN -->
+            <!--[if mso]>
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="680" align="center">
+            <tr>
+            <td>
+            <![endif]-->    
+            
+<table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" width="100%" style="display:block; width: 100%;" bgcolor="#002060">
+                <tr>
+                    <td style="padding: 0 20; text-align: left"><a href="https://www.rentals.com/" target="_blank"><img class="fluid-header" src="http://image.message.rentals.com/lib/fe9a13707565017c72/m/1/6b47e69e-f6e5-4773-a9f3-50c5043907c6.png" width="137" height="37" alt="Rentals.com - Part of the RentPath Network" border="0" style="display:block; width: 100%; max-height: 40px; max-width: 137px; height: 39px; background: #002060; font-family: sans-serif; font-size: 15px; line-height: 100%; color: #002060; padding: 10px 0 10px 10px"></a>
+                    </td>
+                </tr>
+ </table>
+
+            <!--[if mso]>
+            </td>
+            </tr>
+            </table>
+            <![endif]-->
+            <!-- Email Header : END -->
+             <!-- Email Header : BEGIN -->
+             <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" width="100%" style="max-width: 680px;" bgcolor="ffffff">
+                                        <tr>
+                                            <td style="padding: 0px; text-align: center"><a href="https://www.rentals.com/movingservices" target="_blank"><img  src="http://image.message.rentals.com/lib/fe9a13707565017c72/m/1/b6d7592d-b1bf-48da-8c11-137907312811.jpg" alt="Real estate listings with video receive 403% more leads than those without." width="600" height="" class="fluid g-img" style="width: 100%; max-width: 680px; height: auto; background: #dddddd; font-family: sans-serif; font-size: 15px; line-height: 140%; color: #002060; margin: auto;" border="0" align="center" alias="#"></a>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <!-- Email Header : END -->                
+  <!-- Email Header : BEGIN -->
+            <!--[if mso]>
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="680" align="center">
+            <tr>
+            <td>
+            <![endif]-->    
+                      
+                                <!-- Email Body : BEGIN -->
+                                <!-- 1 Column Text BEGIN -->
+                                  
+             <!--[if mso]>
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="680" align="center">
+            <tr>
+            <td>
+            <![endif]--> 
+      <!--HERO PLAIN TEXT-->
+      <tr>
+        <td bgcolor="#ffffff">
+           <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="display:block; width: 100%; margin: auto;">
+          <tr>
+              <td height="20"></td>
+            </tr>
+       
+               <tr>
+              <td height="5"></td>
+            </tr>
+        </table>
+      </td>
+    </tr>
+            <!--HERO PLAIN TEXT-->                       
+            <!--[if mso]>
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="680" align="center">
+            <tr>
+            <td>
+            <![endif]--> 
+            <!-- 1 Column Text END -->
+    <tr>
+      <td bgcolor="#ffffff">
+        <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="display:block; width: 100%; margin: auto;">
+              <tr>
+                  <td align="left" style="padding: 0px 40px 0px; font-family: Arial, sans-serif; font-size: 18px; line-height: 140%; color: #555555;">
+                     <p style="margin: 0;"></p>
+                   </td>
+               </tr>
+               <tr>
+                   <td align="left" style="padding: 0 40px 20px; font-family: 'Nunito Sans', Helvetica, Arial, sans-serif; font-size: 18px; line-height: 150%; color: #4A4A4A;">
+
+%%[
+VAR @FirstName
+SET @Firstname = AttributeValue("FirstName")
+IF Empty(@FirstName) THEN
+ELSE
+SET @Greeting1 = trim(@FirstName)
+SET @Greeting2 = CONCAT("Hi ",@Greeting1,",")
+ENDIF
+]%%        
+
+%%=trim(ProperCase(@Greeting2))=%%             
+                                                          
+                <p style="padding: 0px 0px 0px;">Thanks for using <a href="https://www.rentals.com" style="color: #555555; font-style: normal; text-decoration: none !important;">Rentals.com</a> during your search. If you’re ready to make your move, we have a partner who can help!</p>
+                                                       <p style="margin: 0 0px 15px;"> Move Matcher makes finding local mover rates simple, fast and easy. You contact the movers you’re interested in when you’re ready. <strong>Move Matcher never shares your personal information.</strong></p>                           
+                                                      </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <!-- 1 Column Text END -->
+                                        <!-- 1 Column Text BEGIN -->
+                                        <tr>
+                                            <td bgcolor="#ffffff">
+                                                <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                                    <tr>
+                                                        <td style="padding: 10px 40px 30px; font-family: sans-serif; font-size: 18px; line-height: 140%; color: #555555;">
+                                                            <!-- Button : BEGIN -->
+                                                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="left" style="margin: auto;" class="fluid">
+                                                                <tr>
+                                                                    <td style="border-radius: 5px; background: #407dda; text-align: center;" class="button-td">
+                                                                        <a href="https://www.rentals.com/movingservices" target="_blank" alias="BTN_LearnMore" class="button-a" style="background: #407dda; border: 15px solid #407dda; font-family: 'Nunito Sans', Helvetica, Arial, sans-serif; font-size: 18px; line-height: 110%; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; padding: 0 16px; white-space: nowrap; font-weight: bold;"><span style="color:#ffffff;" class="button-link">Get Free Quotes</span></a>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                            <!-- Button : END -->
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                       <!-- 1 Column Text END -->      
+                       <!-- 1 Column Text END -->
+                                        <tr>
+                                            <td bgcolor="#ffffff">
+                                                <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                                    <tr>
+                                                        <td align="left" style="padding: 0px 40px 0px; font-family: Arial, sans-serif; font-size: 16px; line-height: 140%; color: #555555;">
+                                                          <p style="margin: 0;"></p>
+                                                      </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left" style="padding: 0 40px 0px; font-family: 'Nunito Sans', Helvetica, Arial, sans-serif; font-size: 18px; line-height: 150%; color: #4A4A4A;">
+<p>Happy moving,</p>
+<a href="https://www.rentals.com/" target="_blank" alias="Txt_email" style="text-decoration: none; color: #555555; font-weight: 400;">The Rentals.com Team</a>
+
+                                                      </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <!-- 1 Column Text END -->
+                                  
+                        <!-- 1 Column Text END -->
+ <!--[if mso]>
+                                        <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="680" align="center">
+                                            <tr>
+                                                <td>
+                                                    <![endif]-->
+                                        <tr>
+                                            <td bgcolor="#ffffff">
+                                                <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                                    <tr>
+                                                        <td align="center" style="padding: 20px 40px 20px;"></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                       <!-- 1 Column Text END -->
+                      <!-- 1 Column Text BEGIN -->
+                               <tr>
+                                <td valign="top" align="center">
+                                    <div style="max-width: 680px; margin: auto;" class="email-container">
+                                        <!--[if mso]>
+                                        <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="680" align="center">
+                                            <tr>
+                                                <td>
+                                                    <![endif]-->
+                                                    <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#f2f2f2">
+                                                        
+                                                                                                                 <!-- Copyright - Footer : BEGIN -->
+                                                        <tr>                                                         <td align="center" style="border-top: 1px solid #FFFFFF; padding: 20px 20px 20px; font-family: 'Nunito Sans', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 16px; color: #555555;">
+                                                          <span style="padding-top: 20px, margin: 20px 20px 20px;">All photos, videos, text, and other content are the property of RentPath, LLC.  <a href="tel:888-501-7368" target="_blank" style="text-decoration:none; color: #555555; font-weight: normal;"></a><br/>&copy; %%=FORMAT(NOW(),'yyyy')=%% RentPath LLC. All rights reserved.<br><br><a style="color:#666666; text-decoration: none" href="#">950 East Paces Ferry Road NE, Suite 2600, Atlanta, GA 30326</a><br>
+                                                            <a style="color:#002060; text-decoration:underline;" href="tel:866-730-7177" value="+8667307177" target="_blank">866-730-7177</a> | <a style="color:#002060; text-decoration:underline;" href="https://www.rentpath.com/privacy-policy/" target="_blank">Privacy Policy</a> | <a style="color:#002060; text-decoration:underline" href="%%=REDIRECTTO(@unsubURL)=%%" target="_blank">Unsubscribe</a>
+                                                      </span>
+                                                        </td>
+                                                    </tr>
+                                  <tr>
+<td>
+                                    </td>
+                                  </tr>
+                                   </table>
+                                   <!-- START EQUAL OPPORTUNITY HOUSING LOGO-->
+       <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#f2f2f2">                                                                   <tr> 
+         <td align="center" style="padding: 0px 10px 20px;">
+                       <img src="http://image.message.rentals.com/lib/fe9a13707565017c72/m/1/86041c58-28dc-49dc-848d-2f7339cc9488.png" width="50" height="50" border="0" alt="EQUAL HOUSING OPPORTUNITY" style="display:block; width: 100%; max-width: 50px; height: auto; font-family: sans-serif; font-size: 15px; line-height: 100%; color: #555555;">                                                                                             
+         </td>                                                                                                   
+         </tr>
+         </table>
+         <!-- END EQUAL OPPORTUNITY HOUSING LOGO-->
+                                                <!--[if mso]>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <![endif]-->
+                                </div>
+                            </td>
+                        </tr>
+                    <!-- Email Body : END -->
+                    
+                    <!--[if mso]>
+                </td>
+            </tr>
+        </table>
+        <![endif]-->
+    </div>
+    <!--[if mso | IE]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</center>
+</body>
+</html>
