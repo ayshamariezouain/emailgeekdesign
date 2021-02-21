@@ -1,0 +1,179 @@
+<script runat='server'>
+Platform.Load("core", "1.1.1");
+ //  DATA EXTENSION DETAILS  //
+  //ActiveFlag = Boolean Field
+  //CreatedDate = Date Field
+  //Email is EmailAddress Field
+  //AccountUserID should be Primary Key
+  //All other fields are text fields
+  //Set length to 150 for each
+/***********************************************
+*
+*   Update these variables to configure script
+*
+***********************************************/
+var debug = 1;
+//Data Extension Key to Collect Data
+var writeDEKey = "";
+//Empty array to collect write payload
+var resWriteArr = [];
+var accountReq = {
+  soapObjName: "AccountUser",
+   cols: []
+}
+var accountRes = wsRetrieve(accountReq);
+deBug("account Response", accountRes, 0)
+for(var i = 0; i < accountRes.Results.length; i++){
+  var a = accountRes.Results[i];
+  var Name = a.Name;
+  if(!Name.indexOf("app user")){
+   var writeData = {
+        CustomerKey: writeDEKey,
+        Properties: [
+          { Name: "AccountUserID", Value: a.AccountUserID },
+          { Name: "UserID", Value: a.UserID },
+          { Name: "CreatedDate", Value: a.CreatedDate },
+          { Name: "ActiveFlag", Value: a.ActiveFlag },
+          { Name: "Name", Value: a.Name },
+          { Name: "Email", Value: a.Email }
+        ]
+      };
+      resWriteArr.push(writeData);
+  	};
+  };
+  var updateConfig = {
+      soapObjName: "DataExtensionObject",
+      options: {
+        SaveOptions:[{
+          PropertyName:"*",
+          SaveAction:"UpdateAdd"
+        }]
+      },
+      payload: resWriteArr
+    }
+  var updateRes = wsUpdate(updateConfig);
+  deBug("Update Res", updateRes, 1);
+function wsRetrieve(config) {
+ var prox = new Script.Util.WSProxy(),
+  reqID,
+  moreData = true;
+ var opts = config.opts;
+ var props = config.props;
+ var filter = config.filter;
+ //if cols is empty get all Retreiveable Columns
+ if (!config.cols) {
+  cols = getRetrievableColumns(config.soapObjName)
+ } else {
+  cols = config.cols
+ };
+ if (mid) {
+  prox.resetClientIds(); //reset previous settings
+  // Set ClientID 
+  prox.setClientId({ "ID": config.mid });
+ }
+ var status = "";
+ var results = [];
+ // my script to set the values for function
+ while (moreData) {
+  moreData = false;
+  if (reqID == null) {
+   if (filter) {
+    var data = prox.retrieve(config.soapObjName, cols, filter, opts, props);
+   } else {
+    var data = prox.retrieve(config.soapObjName, cols);
+   }
+  } else {
+   var data = prox.getNextBatch(config.soapObjName, reqID);
+  }
+  if (data != null) {
+   if (!config.opts.BatchSize) {
+    moreData = data.HasMoreRows;
+    reqID = data.RequestID;
+   }
+   //my script to interact with results
+   if (data && data.Results) {
+    for (var i = 0; i < data.Results.length; i++) {
+     results.push(data.Results[i]);
+     if (!status) { status = data.Status }
+    }
+   }
+  }
+ }
+ var output = {
+  Status: status,
+  Results: results
+ }
+ return output;
+}
+function wsUpdate(config) {
+  var prox = new Script.Util.WSProxy();
+ //example opts: {SaveOptions:[{'PropertyName':'*',SaveAction:'UpdateAdd'}]}
+ //example contentJSON Object: { CustomerKey: custKey, Properties: [{ Name: 'SubscriberKey', Value: 'myKey' }]};
+ //example contentJSON Array: [{ CustomerKey: custKey, Properties: [{ Name: 'SubscriberKey', Value: 'myKey' }]}, { CustomerKey: custKey, Properties: [{ Name: 'SubscriberKey', Value: 'myKey2' }]}]
+ var options = config.options;
+ if (config.mid) {
+    prox.resetClientIds(); //reset previous settings
+    prox.setClientId({ "ID": config.mid }); //Impersonates the BU
+ }
+ var batch = isArray(config.payload);
+ if (batch) {
+      var res = prox.updateBatch(config.soapObjName, config.payload, options);  
+ } else {
+      var res = prox.updateItem(config.soapObjName, config.payload, options);
+ }
+ return res;
+}
+/***********************************************
+*
+*   function getRetrieveableColumns()
+*   Gets all columns from a SOAP Object
+*
+*    @peram {soapObjName} Name of SOAP object to get columns
+*
+*    @output {array} array of fields
+*
+***********************************************/
+//returns all retrievable columns from SOAP Object
+function getRetrievableColumns(soapObjName) {
+  var desc = prox.describe(soapObjName);
+  var prop = desc.Results[0].Properties
+  var out = [];
+  for (i = 0; i < prop.length; i++) {
+    var item = prop[i];
+    item.IsRetrievable ? out.push(item.Name) : '';
+  }
+  return out
+}
+  /***********************************************
+ *
+ *   function deBug()
+ *   Writes responses and outputs to cloudpage for debugging code
+ *
+ *    @peram {string} Identifier for what is being debugged
+ *    @peram {response} Output/Response to Stringify and Write
+ *    @peram {debug} toggles debugging function to write values to cloudpage
+ *
+ *    @output Debugging Identifier, Stringified Response, line breaks around output
+ *
+ ***********************************************/
+function deBug(string, response, debug) {
+  if (response) {
+    debug ? Write("<br><b>" + string + ":</b><br> " + Stringify(response) + "<br><br>") : null;
+  } else {
+    debug ? Write("<br><b>" + string + "</b><br> ") : null;
+  }
+} //End deBug
+/***********************************************
+*
+*   function isArray()
+*   Helper function that checks to see if the parameter is an array
+*
+*    @peram {arg} input to check
+*
+*    @output boolean result true/false
+*
+***********************************************/
+function isArray(arg) {
+    return Object.prototype.toString.call(arg) === '[object Array]';
+  };
+</script>
