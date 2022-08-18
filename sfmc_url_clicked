@@ -1,0 +1,7 @@
+select
+c.SubscriberID,
+a.EmailAddress,
+c.URL
+from _Click as c
+join _Subscribers as a on c.SubscriberID = a.SubscriberID
+where c.URL = 'https://www.google.com/' 
