@@ -1,0 +1,15 @@
+Review the following
+https://trailhead.salesforce.com/trailblazer-community/groups/0F9300000001pQ5CAI?tab=discussion&sort=LAST_MODIFIED_DATE_DESC
+
+%%[
+SET @email = YOUR_EMAIL_ADDRESS_FIELD
+SET @emailLINK = Concat("mailto:", @email)
+]%%
+
+<a href="%%=RedirectTo(@emailLINK)=%%" alias="Email_%%=v(@email)=%%">%%=v(@email)=%%</a>
+
+https://trailhead.salesforce.com/trailblazer-community/feed/0D54S00000JgG5MSAV
+
+Then, apply this.
+
+https://salesforce.stackexchange.com/questions/198916/creating-seed-de-with-query
