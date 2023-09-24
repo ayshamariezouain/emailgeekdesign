@@ -1,0 +1,9 @@
+https://salesforce.stackexchange.com/questions/199957/impression-tracking-on-dynamic-content-block-with-ampscript/199999#199999
+
+%%[ IF x == y THEN ]%%
+
+%%=BeginImpressionRegion("Section 1: X is equal to Y")=%% 
+%%=ContentAreaByKey("my contents\Content Units\Abandon Cart\TopBanner")=%%
+%%=EndImpressionRegion()=%%
+
+%%[ ENDIF ]%%
