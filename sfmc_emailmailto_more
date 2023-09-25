@@ -1,0 +1,21 @@
+Tracking links to test
+https://salesforce.stackexchange.com/questions/199017/can-we-track-tel-and-mailto-clicks-from-email/199026#199026
+https://trailhead.salesforce.com/trailblazer-community/feed/0D54S00000JgG5MSAV
+
+%%[ SET @email = '%%REPLY_EMAIL%%' SET @emailURL = CONCAT('mailto:', @email) ]%%<div style="text-align: center;">
+
+ <a href="%%=REDIRECTTO(@emailURL)=%%"><span style="color:;"><b><span style="font-size:20px;"><span style="font-family:Arial,Helvetica,sans-serif;">Contact Us Now</span></span></b></span></a><br>
+
+ <br>
+
+ <a alias="Learn More Button" conversion="false" data-linkto="mailto:" href="%%=REDIRECTTO(@emailURL)=%%" title="Learn More"><img alt="" data-assetid="288145" height="55" src="YOUR_IMAGE" style="padding: 0px; height: 55px; width: 200px; border: 0px; text-align: center;" width="200"></a></div>
+
+Distributed Marketing
+https://salesforce.stackexchange.com/questions/257818/what-is-distributed-marketing
+
+Creating Seed List
+https://salesforce.stackexchange.com/questions/198916/creating-seed-de-with-query
+
+https://trailblazercommunitygroups.com/events/details/salesforce-salesforce-marketer-group-marketing-cloud-poznan-poland-presents-sfmc-companion-deep-dive-with-cameron-robert/
+
+https://trailhead.salesforce.com/trailblazer-community/feed/0D54V00007IeTsVSAV
