@@ -1,0 +1,11 @@
+Select CONCAT(JobID, ListId , BatchId , SubId) AS MergeID,
+SubscriberKey,
+JobID,
+ListId,
+BatchId,
+SubId,
+SendFromName,
+SendFromEmail
+
+
+FROM SendLog
